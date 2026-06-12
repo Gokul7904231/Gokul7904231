@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist(Internal);AWS+Certified+%7C+CLLMSP+95%25+%7C+Publications+on+Contextual+awarness" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist;AWS+Certified+%7C+CLLMSP+95%25+%7C+Published+Researcher" alt="Typing SVG" />
 
 <br/>
 
@@ -16,17 +16,17 @@
 
 ```python
 gokul = {
-    "name"         : "Gokul A",
-    "degree"       : "B.Tech Computer Science — Crescent College of Engineering (2026)",
-    "cgpa"         : "7.5 / 10",
-    "internships"  : ["AI/ML Intern @ Infosys Limited (Aug–Oct 2025)",
-                      "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"],
-    "flagship"     : "Sentixcare — multimodal emotion AI, live on HuggingFace Spaces",
+    "name"          : "Gokul A",
+    "degree"        : "B.Tech Computer Science — Crescent College of Engineering (2026)",
+    "cgpa"          : "7.5 / 10",
+    "internships"   : ["AI/ML Intern @ Infosys Limited (Aug–Oct 2025)",
+                       "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"],
+    "flagship"      : "Sentixcare — multimodal emotion AI, live on HuggingFace Spaces",
     "certifications": ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"],
-    "publications" : 2,   # ICRIT '26 + diabetic retinopathy detection
-    "achievement"  : "SIH 2025 National Finalist",
-    "core_stack"   : ["PyTorch", "LangChain", "React.js", "Node.js", "Django", "Docker", "AWS"],
-    "contact"      : "gokul32499@gmail.com | +91-7904231738",
+    "publications"  : 2,   # ICRIT '26 + diabetic retinopathy detection
+    "achievement"   : "SIH 2025 Finalist (Internal Round Winner → National Level)",
+    "core_stack"    : ["PyTorch", "LangChain", "React.js", "Node.js", "Django", "Docker", "AWS"],
+    "contact"       : "gokul32499@gmail.com | +91-7904231738",
 }
 ```
 
@@ -45,21 +45,11 @@ gokul = {
     <td align="center"><b>Certifications</b></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2-Infosys_%2B_Zidio-1D9E75?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2-ICRIT_'26_%2B_2025-7F77DD?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SIH_2025-National_Finalist-F59E0B?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/100%2B-LeetCode_%2F_GFG-E24B4A?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS_CCP_%2B_CLLMSP-95%25-FF9900?style=flat-square"/>
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/2-Infosys_%2B_Zidio-1D9E75?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/2-ICRIT_'26_%2B_2025-7F77DD?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/SIH_2025-Finalist-F59E0B?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/100%2B-LeetCode_%2F_GFG-E24B4A?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/AWS_CCP_%2B_CLLMSP-95%25-FF9900?style=flat-square"/></td>
   </tr>
 </table>
 
@@ -99,12 +89,6 @@ gokul = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Certifications**
-
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CLLMSP](https://img.shields.io/badge/CLLMSP-95%25-6EE7B7?style=for-the-badge&logo=openai&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning_for_Devs-Infosys_Springboard-0052CC?style=for-the-badge)
 
 </div>
 
@@ -173,97 +157,193 @@ gokul = {
 ## 🚀 Projects
 
 <table>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Sentixcare]([https://huggingface.co](https://huggingface.co/spaces/gokul-music/Sentixcare)) — **Live on HuggingFace** ⭐ Flagship
-Multimodal emotion recognition system. CNN face detector trained on FER-2013, custom NLP recommendation engine with ERMA & AEISA algorithms. Real-time webcam inference via Flask REST + Streamlit.
+### 🧠 Sentixcare — ⭐ Flagship AI Project
+Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
 
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
 
-> Basis for my ICRIT '26 publication
+[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
+[![Publication](https://img.shields.io/badge/ICRIT_'26-Published-7F77DD?style=flat-square)](https://github.com/Gokul7904231)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 [Planetopia](https://github.com/Gokul7904231) — **SIH 2025 National Finalist**
-Gamified eco-education MERN platform. Built a full-stack MVP in 36 hours during SIH. Real-time progress tracking, gamified reward systems, integration-tested across all features.
+### 🧠 Meeting Intelligence System
+AI-powered meeting analysis platform. Turns raw conversations into structured intelligence — summaries, action items, decisions. Full-stack JS build with real-time processing.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+`JavaScript` `Node.js` `React` `AI/NLP` `REST APIs`
 
-> Won internal college round → National level
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://fluffy-raindrop-2fae3e.netlify.app/)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1o8XgJwTQGpDEWLYqjulPyXov2ilrzAkN/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Meeting-Intelligence-System)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [Apex Shopify Analytics](https://github.com/Gokul7904231) — Live on Render
-Full-stack e-commerce analytics dashboard. Real-time sales tracking and inventory insights with REST API backend.
+### 🏆 Planetopia — SIH 2025 Finalist
+Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SIH. Real-time dashboards, reward systems, integration-tested across all features.
 
-`React.js` `Node.js` `PostgreSQL` `REST APIs`
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+[![Demo Video](https://img.shields.io/badge/Demo_Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YNPv22hxtF4)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 [Carbon Ingest Platform](https://github.com/Gokul7904231/Carbon-ingest) — Live on Render
-Enterprise-grade emissions ledger (Scope 1/2/3). Django REST Framework + React. Three ingestion parsers: SAP, Utilities, Travel. Strict data immutability.
+### 🌱 Carbon Ingest Platform
+Enterprise-grade emissions ledger (Scope 1/2/3). Django REST + React, three ingestion parsers (SAP, Utilities, Travel). Strict data immutability. Built as a take-home for Breathe ESG.
 
 `Django` `DRF` `React` `PostgreSQL` `Docker`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carbon-ingest.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Carbon-ingest)
+
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔁 Outreach Pipeline
+Automated multi-step outreach pipeline engineered for scale — intelligent triggers, sequencing logic, and data-driven follow-ups.
+
+`Node.js` `JavaScript` `REST APIs` `Automation`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://hintro-intel.onrender.com/)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1o8XgJwTQGpDEWLYqjulPyXov2ilrzAkN/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Outreach-pipeline)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Apex Shopify Analytics
+Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory insights, and REST API backend. Live in production.
+
+`React.js` `Node.js` `PostgreSQL` `REST APIs`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Apex-Shopify-Engine)
+
+</td>
+</tr>
+
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 📄 Research Publications
 
-| Year | Title | Venue |
-|------|-------|-------|
-| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper |
-
+| Year | Title | Venue | Link |
+|------|-------|-------|------|
+| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://github.com/Gokul7904231) |
+| 2025 | Early diabetic retinopathy detection | Research Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://github.com/Gokul7904231) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
 
-- 🥇 **SIH 2025 Finalist** — Planetopia (EcoSpark) | Won internal college round
+- 🥇 **SIH 2025 Finalist** — Planetopia (EcoSpark) | Won internal college round → National level
 - 🏅 **Winner** — Talent Hunt Tech Quiz, Crescent College of Engineering
 - 👥 **Senior Sub-Committee Member (IT)** — Crescent Club of Finance; led Alumni website development
 - 💻 **100+ DSA problems** solved on LeetCode and GeeksforGeeks
-- 📚 **1 Research Publications** — AI/ML domain (ICRIT '26)
+- 📚 **2 Research Publications** — AI/ML domain (ICRIT '26 + 2025)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-📊 GitHub Stats & Activity
+## 🎓 Certifications
 
-<!-- Row 1: Stats card + Languages side by side -->
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><br/>
+      <b>AWS Certified Cloud Practitioner</b><br/>
+      <sub>Amazon Web Services</sub><br/><br/>
+      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/CLLMSP-LLM_Security-6EE7B7?style=for-the-badge&logo=openai&logoColor=black"/><br/><br/>
+      <b>Certified LLM Security Professional</b><br/>
+      <sub>Score: 95%</sub><br/><br/>
+      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Deep_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
+      <b>Deep Learning for Developers</b><br/>
+      <sub>Infosys Springboard</sub><br/><br/>
+      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Machine_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
+      <b>Machine Learning Foundations</b><br/>
+      <sub>Infosys Springboard</sub><br/><br/>
+      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Data_Engineering-Hadoop_%26_Spark-E25A1C?style=for-the-badge"/><br/><br/>
+      <b>Data Engineering with Hadoop & Spark</b><br/>
+      <sub>GeeksforGeeks</sub><br/><br/>
+      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/ICRIT_'26-Research_Paper-7F77DD?style=for-the-badge"/><br/><br/>
+      <b>Published Researcher — ICRIT '26</b><br/>
+      <sub>Mood-driven multimodal AI</sub><br/><br/>
+      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Paper-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6" height="165"/>
-</div>
-<!-- Row 2: Streak full width -->
-<div align="center">
-Show Image
 
 </div>
-<!-- Row 3: Activity graph full width -->
+
 <div align="center">
-Show Image
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gokul7904231&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7&dates=888888&card_width=700)](https://git.io/streak-stats)
 
 </div>
-<!-- Row 4: Summary cards — profile timeline full width -->
+
 <div align="center">
+
+[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6&custom_title=Gokul's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul7904231&theme=tokyonight" width="98%"/>
+
 </div>
-<!-- Row 5: Four mini summary cards -->
+
 <div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokul7904231&theme=tokyonight" width="23%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokul7904231&theme=tokyonight" width="23%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokul7904231&theme=tokyonight" width="23%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokul7904231&theme=tokyonight&utcOffset=5.5" width="23%"/>
+
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect
@@ -273,7 +353,7 @@ Show Image
 [![Portfolio](https://img.shields.io/badge/Portfolio-gokul--builds.vercel.app-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://gokul-builds.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul1234-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul1234)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokul7904231-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul7904231)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentixcare_(Live)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentixcare-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
 [![Email](https://img.shields.io/badge/Email-gokul32499@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokul32499@gmail.com)
 
 </div>
@@ -285,6 +365,6 @@ Show Image
 
 <br/>
 
-*"Two internships. publications. One SIH Finalist badge. Building production AI from Chennai."*
+*"Two internships. Two publications. One SIH Finalist badge. Building production AI from Chennai."*
 
 </div>
