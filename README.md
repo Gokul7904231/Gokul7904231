@@ -36,9 +36,32 @@ gokul = {
 
 <div align="center">
 
-| 🏢 Internships | 📄 Publications | 🏆 Hackathons | 💻 DSA Problems | ☁️ Certifications |
-|:-:|:-:|:-:|:-:|:-:|
-| **2** (Infosys + Zidio) | **2** (ICRIT '26 + 2025) | **SIH 2025 Finalist** | **100+** LeetCode / GFG | **AWS CCP + CLLMSP** |
+<table>
+  <tr>
+    <td align="center"><b>Internships</b></td>
+    <td align="center"><b>Publications</b></td>
+    <td align="center"><b>Hackathons</b></td>
+    <td align="center"><b>DSA Problems</b></td>
+    <td align="center"><b>Certifications</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/2-Infosys_%2B_Zidio-1D9E75?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/2-ICRIT_'26_%2B_2025-7F77DD?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SIH_2025-National_Finalist-F59E0B?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/100%2B-LeetCode_%2F_GFG-E24B4A?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS_CCP_%2B_CLLMSP-95%25-FF9900?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -213,18 +236,35 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST Framework + React. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gokul7904231&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gokul7904231&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gokul7904231&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
