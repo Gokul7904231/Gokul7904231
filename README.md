@@ -21,7 +21,6 @@ class Developer:
     def __init__(self):
         self.name           = "Gokul A"
         self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
-        self.cgpa           = "7.5 / 10"
         
         self.internships    = [
             "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
