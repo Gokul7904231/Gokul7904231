@@ -12,23 +12,26 @@
 
 </div>
 
-## `whoami`
+## 👨‍💻 `whoami`
 
 ```python
-gokul = {
-    "name"          : "Gokul A",
-    "degree"        : "B.Tech Computer Science — Crescent College of Engineering (2026)",
-    "cgpa"          : "7.5 / 10",
-    "internships"   : ["AI/ML Intern @ Infosys Limited (Aug–Oct 2025)",
-                       "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"],
-    "flagship"      : "Sentixcare — multimodal emotion AI, live on HuggingFace Spaces",
-    "certifications": ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"],
-    "publications"  :    # ICRIT '26 
-    "achievement"   : "SIH 2025 Finalist (Internal Round Winner → National Level)",
-    "core_stack"    : ["PyTorch", "LangChain", "React.js", "Node.js", "Django", "Docker", "AWS"],
-    "contact"       : "gokul32499@gmail.com | +91-7904231738",
-}
-```
+class Developer:
+    def __init__(self):
+        self.name           = "Gokul A"
+        self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
+        self.cgpa           = "7.5 / 10"
+        
+        self.internships    = [
+            "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
+            "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"
+        ]
+        
+        self.flagship       = "Sentixcare — Multimodal Emotion AI [Live on HuggingFace]"
+        self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
+        self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
+        
+        self.core_stack     = ["PyTorch", "LangChain", "React.js", "Node.js", "Django", "Docker", "AWS"]
+        self.certifications = ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
