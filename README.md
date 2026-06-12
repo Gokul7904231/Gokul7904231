@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;Infosys+%7C+Zidio+%7C+SIH+2025+National+Finalist;AWS+Certified+%7C+CLLMSP+95%25+%7C+2+Publications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist(Internal);AWS+Certified+%7C+CLLMSP+95%25+%7C+Publications+on+Contextual+awarness" alt="Typing SVG" />
 
 <br/>
 
@@ -222,17 +222,17 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST Framework + React. 
 | Year | Title | Venue |
 |------|-------|-------|
 | 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper |
-| 2025 | Early diabetic retinopathy detection | Research Paper |
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
 
-- 🥇 **SIH 2025 National Finalist** — Planetopia (EcoSpark) | Won internal college round
+- 🥇 **SIH 2025 Finalist** — Planetopia (EcoSpark) | Won internal college round
 - 🏅 **Winner** — Talent Hunt Tech Quiz, Crescent College of Engineering
 - 👥 **Senior Sub-Committee Member (IT)** — Crescent Club of Finance; led Alumni website development
 - 💻 **100+ DSA problems** solved on LeetCode and GeeksforGeeks
-- 📚 **2 Research Publications** — AI/ML domain (ICRIT '26 + 2025)
+- 📚 **1 Research Publications** — AI/ML domain (ICRIT '26)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
@@ -289,6 +289,6 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST Framework + React. 
 
 <br/>
 
-*"Two internships. Two publications. One SIH Finalist badge. Building production AI from Chennai."*
+*"Two internships. publications. One SIH Finalist badge. Building production AI from Chennai."*
 
 </div>
