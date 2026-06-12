@@ -12,21 +12,7 @@
 
 </div>
 
-```markdown
-## 📄 `whoami`
-
-*   **🎓 Education:** B.Tech in Computer Science at Crescent College of Engineering (2026 Batch — CGPA: 7.5/10)
-*   **💼 Internships:**
-    *   **AI/ML Intern** @ Infosys Limited *(Aug–Oct 2025)*
-    *   **Full Stack Developer Intern** @ Zidio Development *(Jul–Sep 2024)*
-*   **🚀 Flagship Project:** Sentixcare — A multimodal emotion AI platform, live on HuggingFace Spaces.
-*   **🔬 Publications:** *"Mood-driven multimodal recommendation systems"* — Conference Paper (ICRIT '26)
-*   **🏆 Achievements:** Smart India Hackathon (SIH) 2025 Finalist & Internal Round Winner
-*   **🛡️ Certifications:** AWS Certified Cloud Practitioner | CLLMSP — LLM Security (95%)
-*   **🛠️ Tech Stack:** `PyTorch` • `LangChain` • `React.js` • `Node.js` • `Django` • `Docker` • `AWS`
-
-📬 **Contact:** [gokul32499@gmail.com](mailto:gokul32499@gmail.com) | +91 79042 31738
-```
+```python
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 At a glance
@@ -51,7 +37,7 @@
 </table>
 
 </div>
-
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 AI / ML Stack
