@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gokul! 👋
 
-<!--
-**Gokul7904231/Gokul7904231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional Summary
+Early-career software engineer specializing in AI/ML engineering, multi-agent orchestration, and full-stack development. Focused on building production-ready architectures and scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Core Expertise
+*   **AI/ML & Agentic Systems:** LangGraph, LlamaIndex, RAG pipelines, NLP, and CNNs.
+*   **Backend & Cloud:** Python, Java, RESTful APIs, Docker, and AWS.
+*   **Testing & Automation:** QA Automation frameworks and CI/CD workflows.
+
+---
+
+### 🛠️ Featured Projects
+*   **Apex Shopify Analytics:** Production-grade agentic AI system for e-commerce using LangGraph multi-agent orchestration and ChromaDB.
+*   **Sentixcare:** AI research platform combining facial emotion recognition (CNN) and NLP sentiment analysis.
+*   **Planetopia:** Gamified environmental platform built for scalable impact.
+
+---
+
+### 📊 GitHub Activity & Connect with Me
+https://www.linkedin.com/in/gokul1234/ | gokul32499@gmail.com
