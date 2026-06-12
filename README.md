@@ -12,31 +12,28 @@
 
 </div>
 
-```python
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 At a glance
+## 👨‍💻 `whoami`
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Internships</b></td>
-    <td align="center"><b>Publications</b></td>
-    <td align="center"><b>Hackathons</b></td>
-    <td align="center"><b>DSA Problems</b></td>
-    <td align="center"><b>Certifications</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/2-Infosys_%2B_Zidio-1D9E75?style=flat-square"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/ICRIT_'26_-7F77DD?style=flat-square"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/SIH_2025-Finalist-F59E0B?style=flat-square"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/100%2B-LeetCode_%2F_GFG-E24B4A?style=flat-square"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/AWS_CCP_%2B_CLLMSP-95%25-FF9900?style=flat-square"/></td>
-  </tr>
-</table>
-
-</div>
+```python
+class Developer:
+    def __init__(self):
+        self.name           = "Gokul A"
+        self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
+        self.cgpa           = "7.5 / 10"
+        
+        self.internships    = [
+            "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
+            "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"
+        ]
+        
+        self.flagship       = "Sentixcare — Multimodal Emotion AI [Live on HuggingFace]"
+        self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
+        self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
+        
+        self.core_stack     = ["PyTorch", "LangChain", "React.js", "Node.js", "Django", "Docker", "AWS"]
+        self.certifications = ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"]
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
