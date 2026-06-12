@@ -9,6 +9,10 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    # Explicitly grant write access to modify repository contents and create PRs
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout Profile Repo
         uses: actions/checkout@v4
