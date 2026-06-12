@@ -329,22 +329,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul7904231&theme=tokyonight" width="98%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokul7904231&theme=tokyonight" width="23%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokul7904231&theme=tokyonight" width="23%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokul7904231&theme=tokyonight" width="23%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokul7904231&theme=tokyonight&utcOffset=5.5" width="23%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect
 
