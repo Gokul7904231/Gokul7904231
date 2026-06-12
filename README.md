@@ -12,26 +12,20 @@
 
 </div>
 
-## 👨‍💻 `whoami`
+```markdown
+## 📄 `whoami`
 
-```python
-class Developer:
-    def __init__(self):
-        self.name           = "Gokul A"
-        self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
-        self.cgpa           = "7.5 / 10"
-        
-        self.internships    = [
-            "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
-            "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"
-        ]
-        
-        self.flagship       = "Sentixcare — Multimodal Emotion AI [Live on HuggingFace]"
-        self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
-        self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
-        
-        self.core_stack     = ["PyTorch", "LangChain", "React.js", "Node.js", "Django", "Docker", "AWS"]
-        self.certifications = ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"]
+*   **🎓 Education:** B.Tech in Computer Science at Crescent College of Engineering (2026 Batch — CGPA: 7.5/10)
+*   **💼 Internships:**
+    *   **AI/ML Intern** @ Infosys Limited *(Aug–Oct 2025)*
+    *   **Full Stack Developer Intern** @ Zidio Development *(Jul–Sep 2024)*
+*   **🚀 Flagship Project:** Sentixcare — A multimodal emotion AI platform, live on HuggingFace Spaces.
+*   **🔬 Publications:** *"Mood-driven multimodal recommendation systems"* — Conference Paper (ICRIT '26)
+*   **🏆 Achievements:** Smart India Hackathon (SIH) 2025 Finalist & Internal Round Winner
+*   **🛡️ Certifications:** AWS Certified Cloud Practitioner | CLLMSP — LLM Security (95%)
+*   **🛠️ Tech Stack:** `PyTorch` • `LangChain` • `React.js` • `Node.js` • `Django` • `Docker` • `AWS`
+
+📬 **Contact:** [gokul32499@gmail.com](mailto:gokul32499@gmail.com) | +91 79042 31738
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
