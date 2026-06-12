@@ -1,0 +1,39 @@
+name: Weekly Profile Auto-Update
+
+on:
+  schedule:
+    # Runs every Sunday at midnight
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows you to trigger it manually via the "Actions" tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests openai
+
+      - name: Run Profile Generator Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # If you use OpenAI or Anthropic for the summary generation:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }} 
+        run: python update_profile.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "docs: weekly automatic portfolio resume update"
+          title: "🤖 Bi-Weekly Recruiter Profile Optimization"
+          body: "This automated PR updates the profile README to summarize recent development work, tailored for AI Engineering and QA Automation roles."
+          branch: "copilot-profile-refresh"
