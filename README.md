@@ -236,35 +236,34 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST Framework + React. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats & Activity
+📊 GitHub Stats & Activity
 
+<!-- Row 1: Stats card + Languages side by side -->
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6" height="165"/>
+</div>
+<!-- Row 2: Streak full width -->
+<div align="center">
+Show Image
 
 </div>
-
+<!-- Row 3: Activity graph full width -->
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gokul7904231&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7&dates=888888)](https://git.io/streak-stats)
+Show Image
 
 </div>
-
-<br/>
-
+<!-- Row 4: Summary cards — profile timeline full width -->
 <div align="center">
-
-[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul7904231&theme=tokyonight" width="98%"/>
 </div>
-
-<br/>
-
+<!-- Row 5: Four mini summary cards -->
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gokul7904231&theme=tokyonight" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gokul7904231&theme=tokyonight" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gokul7904231&theme=tokyonight" width="23%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gokul7904231&theme=tokyonight&utcOffset=5.5" width="23%"/>
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect
