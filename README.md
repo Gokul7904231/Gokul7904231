@@ -242,8 +242,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
-| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)]((https://drive.google.com/file/d/1_cjq_kiUEftrDBDbRPMTB8CX6rn1w3S5/view?usp=sharing)) |
-
+| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://drive.google.com/file/d/1_cjq_kiUEftrDBDbRPMTB8CX6rn1w3S5/view?usp=sharing) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
