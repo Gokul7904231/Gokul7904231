@@ -176,7 +176,7 @@ gokul = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Sentixcare](https://huggingface.co) — **Live on HuggingFace** ⭐ Flagship
+### 🧠 [Sentixcare]([https://huggingface.co](https://huggingface.co/spaces/gokul-music/Sentixcare)) — **Live on HuggingFace** ⭐ Flagship
 Multimodal emotion recognition system. CNN face detector trained on FER-2013, custom NLP recommendation engine with ERMA & AEISA algorithms. Real-time webcam inference via Flask REST + Streamlit.
 
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
