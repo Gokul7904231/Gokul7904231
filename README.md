@@ -266,19 +266,19 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
       <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><br/>
       <b>AWS Certified Cloud Practitioner</b><br/>
       <sub>Amazon Web Services</sub><br/><br/>
-      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+      <!-- <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a> -->
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/CLLMSP-LLM_Security-6EE7B7?style=for-the-badge&logo=openai&logoColor=black"/><br/><br/>
       <b>Certified LLM Security Professional</b><br/>
       <sub>Score: 95%</sub><br/><br/>
-      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+      <!-- <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a> -->
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Deep_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
       <b>Deep Learning for Developers</b><br/>
       <sub>Infosys Springboard</sub><br/><br/>
-      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+      <!-- <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a> -->
     </td>
   </tr>
   <tr>
@@ -286,7 +286,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
       <img src="https://img.shields.io/badge/Machine_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
       <b>Machine Learning Foundations</b><br/>
       <sub>Infosys Springboard</sub><br/><br/>
-      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+      <!-- <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a> -->
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Data_Engineering-Hadoop_%26_Spark-E25A1C?style=for-the-badge"/><br/><br/>
@@ -298,7 +298,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
       <img src="https://img.shields.io/badge/ICRIT_'26-Research_Paper-7F77DD?style=for-the-badge"/><br/><br/>
       <b>Published Researcher — ICRIT '26</b><br/>
       <sub>Mood-driven multimodal AI</sub><br/><br/>
-      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Paper-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+      <!-- <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Paper-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a> -->
     </td>
   </tr>
 </table>
