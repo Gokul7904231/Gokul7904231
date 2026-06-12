@@ -46,7 +46,7 @@ gokul = {
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/2-Infosys_%2B_Zidio-1D9E75?style=flat-square"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/ICRIT_'26_%22-7F77DD?style=flat-square"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/ICRIT_'26_2-7F77DD?style=flat-square"/></td>
     <td align="center"><img src="https://img.shields.io/badge/SIH_2025-Finalist-F59E0B?style=flat-square"/></td>
     <td align="center"><img src="https://img.shields.io/badge/100%2B-LeetCode_%2F_GFG-E24B4A?style=flat-square"/></td>
     <td align="center"><img src="https://img.shields.io/badge/AWS_CCP_%2B_CLLMSP-95%25-FF9900?style=flat-square"/></td>
