@@ -221,7 +221,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
-| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://drive.google.com/file/d/1_cjq_kiUEftrDBDbRPMTB8CX6rn1w3S5/view?usp=sharing) |
+| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
@@ -290,21 +290,16 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420" height="165"/>
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6" height="165"/>](https://github-readme-stats.vercel.app/api?username=Gokul7904231&...&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420&v=1.0.1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6&v=1.0.1" height="165"/>
 
 </div>
-
-
 
 <div align="center">
 
-[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6&custom_title=Gokul's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6&custom_title=Gokul's%20Contribution%20Graph&v=1.0.1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
-
 ## 🤝 Connect
 
 <div align="center">
