@@ -295,11 +295,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gokul7904231&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7&dates=888888&card_width=700)](https://git.io/streak-stats)
-
-</div>
 
 <div align="center">
 
