@@ -231,7 +231,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 - 🏅 **Winner** — Talent Hunt Tech Quiz, Crescent College of Engineering
 - 👥 **Senior Sub-Committee Member (IT)** — Crescent Club of Finance; led Alumni website development
 - 💻 **100+ DSA problems** solved on LeetCode and GeeksforGeeks
-- 📚 **2 Research Publications** — AI/ML domain (ICRIT '26 + 2025)
+- 📚 **Research Publications** — AI/ML domain (ICRIT '26)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
