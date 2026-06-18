@@ -6,7 +6,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Fresher_2026-6EE7B7?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Chennai%2C_Tamil_Nadu-0A66C2?style=flat-square)
-[![Portfolio](https://img.shields.io/badge/https://www.gokul.software/-000000?style=flat-square&logo=vercel)](https://www.gokul.software/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel)](https://www.gokul.software/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
