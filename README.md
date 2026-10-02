@@ -151,14 +151,14 @@ class Developer:
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ ShortForge 
+### ⚙️ ShortForge
 
 AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
 
 `TypeScript` `Next.js` `React` `Python` `FastAPI` `LLMs` `MCP` `Docker`
 
-[![Live](https://img.shields.io/badge/GitHub-ShortForge-181717?style=flat-square&logo=github)](https://shortforge.gokul.software/)
-[![GitHub](https://github.com/Gokul7904231/ShortForge)
+[![Live](https://img.shields.io/badge/Live-ShortForge-2EA44F?style=flat-square)](https://shortforge.gokul.software/)
+[![GitHub](https://img.shields.io/badge/GitHub-ShortForge-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/ShortForge)
 
 </td>
 
@@ -170,13 +170,15 @@ Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendatio
 
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
 
-[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://sentixcare.gokul.software/)
+[![Live](https://img.shields.io/badge/Live-Sentixcare-2EA44F?style=flat-square)](https://sentixcare.gokul.software/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
 
 [![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🦅 HireHawk — Autonomous AI Job Application Copilot
@@ -185,15 +187,12 @@ Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, 
 
 `Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
 
-[![Live](https://img.shields.io/badge/Live_Demo-Cloudflare-2EA44F?style=flat-square)](https://hirehawk-dashboard.pages.dev/)
+[![Live](https://img.shields.io/badge/Live-HireHawk-2EA44F?style=flat-square)](https://hirehawk-dashboard.pages.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-HireHawk-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/HireHawk)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
-
 
 ### 🏆 Planetopia (SIH 2025 Finalist) — Gamified Environmental Education Platform
 
@@ -201,14 +200,16 @@ Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SI
 
 `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
-[![Live](https://planetopia-ecospark.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Planetopia-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231)
+[![Live](https://img.shields.io/badge/Live-Planetopia-2EA44F?style=flat-square)](https://planetopia-ecospark.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231)
 [![Demo Video](https://img.shields.io/badge/Demo_Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YNPv22hxtF4)
 
-
 </td>
+</tr>
 
-<td width="50%" valign="top">
+</table>
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 
 ## 📄 Research Publications
