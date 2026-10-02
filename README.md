@@ -150,8 +150,20 @@ class Developer:
  
 <tr>
 <td width="50%" valign="top">
+
+### ⚙️ ShortForge — ⭐ Flagship AI Project
+AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
+
+`TypeScript` `Next.js` `React` `Python` `FastAPI` `LLMs` `MCP` `Docker`
+
+[![GitHub](https://img.shields.io/badge/GitHub-ShortForge-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/ShortForge)
+
+</td>
+<td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
  
-### 🧠 Sentixcare — ⭐ Flagship AI Project
+### 🧠 Sentixcare
 Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
  
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
@@ -162,6 +174,21 @@ Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendatio
  
 </td>
 <td width="50%" valign="top">
+
+ ### 🦅 HireHawk — Autonomous AI Job Application Copilot
+Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, MCP servers, company intelligence, resume tailoring, HITL approval, and application tracking**.
+
+`Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Cloudflare-2EA44F?style=flat-square)](https://hirehawk-dashboard.pages.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-HireHawk-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/HireHawk)
+
+</td>
+</tr>
+ 
+<tr>
+<td width="50%" valign="top">
+
  
 ### 🧠 Meeting Intelligence System
 AI-powered meeting analysis platform. Turns raw conversations into structured intelligence — summaries, action items, decisions. Full-stack JS build with real-time processing.
@@ -175,33 +202,8 @@ AI-powered meeting analysis platform. Turns raw conversations into structured in
 </tr>
  
 
-<tr>
-<td width="50%" valign="top">
 
-### ⚙️ ShortForge — ⭐ Flagship AI Project
-AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
 
-`TypeScript` `Next.js` `React` `Python` `FastAPI` `LLMs` `MCP` `Docker`
-
-[![GitHub](https://img.shields.io/badge/GitHub-ShortForge-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/ShortForge)
-
-</td>
-<td width="50%" valign="top">
-
-### 🦅 HireHawk — Autonomous AI Job Application Copilot
-Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, MCP servers, company intelligence, resume tailoring, HITL approval, and application tracking**.
-
-`Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Cloudflare-2EA44F?style=flat-square)](https://hirehawk-dashboard.pages.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-HireHawk-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/HireHawk)
-
-</td>
-</tr>
- 
-<tr>
-<td width="50%" valign="top">
- 
 ### 🏆 Planetopia — SIH 2025 Finalist
 Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SIH. Real-time dashboards, reward systems, integration-tested across all features.
  
@@ -228,15 +230,6 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST + React, three inge
 <tr>
 <td width="50%" valign="top">
 
-### 🎥 Gen-V — AI Short Video Generator
-Active AI video-generation project focused on **script generation, scene planning, provider-agnostic model routing, structured JSON/Zod validation, and local/remote generation backends**, including work around CogVideoX.
-
-`Next.js` `React` `Tailwind` `Gemini` `Groq` `OpenRouter` `Hugging Face` `CogVideoX`
-
-> In active development.
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔎 Search Engine Using EXA
 Lightweight AI search application built around the **Exa API** for web search and retrieval.
