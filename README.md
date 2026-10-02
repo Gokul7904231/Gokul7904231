@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;LLMs+%2B+Agentic+AI+%2B+Distributed+Systems;ShortForge+%7C+HireHawk+%7C+Gen-V;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist;AWS+Certified+%7C+CLLMSP+95%25+%7C+Published+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;LLMs+%2B+Agentic+AI+%2B+Distributed+Systems;ShortForge+%7C+HireHawk+%7C+Gen-V;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist;AWS+AI+Practitioner+%7C+CLLMSP+95%25+%7C+Published+Researcher" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-**I build production-minded AI systems: agents that plan, GPU pipelines that render, and full-stack products people can actually use.**
+**I build AI-powered software end to end: agents that plan, pipelines that render, and full-stack products people can actually use.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
@@ -24,12 +24,12 @@
 
 | | |
 |:--|:--|
-| 🎯 **Target roles** | AI/ML Engineer · LLM / Agentic AI Engineer · Full Stack (AI-first) Engineer |
+| 🎯 **Looking for** | Software Engineer · AI/ML Engineer (entry-level) · Full Stack Developer · Graduate Engineer Trainee |
 | 📅 **Availability** | Fresher — 2026 batch, ready to join immediately |
 | 📍 **Location** | Chennai, Tamil Nadu · open to remote / relocation |
-| 🧠 **Core strengths** | LLM orchestration (LangGraph, MCP) · Multimodal AI · FastAPI/React products · Distributed GPU compute |
-| 🏢 **Industry exposure** | Infosys (AI/ML) · Zidio Development (Full Stack) |
-| 🏆 **Proof** | SIH 2025 National Finalist · ICRIT '26 Published · AWS Certified · CLLMSP 95% |
+| 🧠 **Core strengths** | Python & TypeScript · Building AI-powered applications · Full-stack web development · APIs & databases · Fast learner who ships working demos |
+| 🏢 **Experience** | Infosys (AI/ML Intern) · Zidio Development (Full Stack Intern) |
+| 🏆 **Proof** | SIH 2025 National Finalist · ICRIT '26 Published · AWS AI Practitioner Challenge (Udacity) · CLLMSP 95% |
 | 🔗 **Live demos** | [ShortForge](https://shortforge.gokul.software/) · [HireHawk](https://hirehawk-dashboard.pages.dev/) · [Sentixcare](https://sentixcare.gokul.software/) |
 
 </div>
@@ -57,12 +57,50 @@ class Developer:
 
         self.core_stack     = ["PyTorch", "LangGraph", "LangChain", "MCP",
                                "TypeScript", "React.js", "FastAPI", "Docker", "AWS"]
-        self.certifications = ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"]
+        self.certifications = ["AWS AI Practitioner Challenge — Udacity (Jun 2026)",
+                               "CLLMSP — LLM Security (95%)"]
 
-        self.currently      = "Shipping ShortForge — agentic orchestration + distributed GPU rendering"
+        self.currently      = "Building ShortForge — agentic orchestration + distributed GPU rendering"
         self.exploring      = ["Temporal workflows", "ROCm / AMD AI compute", "Agent verification & evals"]
-        self.open_to        = "Full-time AI/ML · Agentic AI · Full Stack roles (2026)"
+        self.open_to        = "Entry-level AI/ML · Software Engineering · Full Stack roles (2026)"
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<sub>Live numbers from my GitHub account — updated automatically</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420&v=1.0.1" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6&v=1.0.1" height="165" alt="Top languages"/>
+
+<br/><br/>
+
+**🟩 Contribution Graph**
+
+<a href="https://github.com/Gokul7904231">
+<img src="https://ghchart.rshah.org/6EE7B7/Gokul7904231" alt="Gokul's GitHub contribution graph" width="90%"/>
+</a>
+
+<!--
+  OPTIONAL — animated contribution snake (self-hosted, never breaks).
+  1. Add .github/workflows/snake.yml (included with this README)
+  2. Run it once: Actions → "Generate Snake" → Run workflow
+  3. Uncomment the block below.
+
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gokul7904231/Gokul7904231/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gokul7904231/Gokul7904231/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gokul7904231/Gokul7904231/output/github-snake-dark.svg" width="90%" />
+</picture>
+-->
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
@@ -80,18 +118,236 @@ class Developer:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 🧭 How I Build
+## 🚀 Projects
 
-> Demos are easy. Production is hard. I design for the second one.
+<div align="center">
+
+### ⚡ Things I've Built
+
+<sub>Every project below has a live demo and source code · Start with the flagship, then browse the rest</sub>
+
+</div>
+
+<br/>
+
+### 🗂️ Project Index
+
+| Project | What it is | Domain | Status | Links |
+|:--|:--|:--|:--:|:--|
+| ⚙️ **ShortForge** | AI short-form video generation platform | Agentic AI · Distributed GPU | 🟢 Active | [Live](https://shortforge.gokul.software/) · [Code](https://github.com/Gokul7904231/ShortForge) |
+| 🦅 **HireHawk** | Autonomous job-application copilot | Multi-agent · Chrome extension | 🟢 Live | [Live](https://hirehawk-dashboard.pages.dev/) · [Code](https://github.com/Gokul7904231/HireHawk) |
+| 🧠 **Sentixcare** | Mood-driven recommendation system | Multimodal AI · Research | 📄 Published | [Live](https://sentixcare.gokul.software/) · [Code](https://github.com/Gokul7904231/Sentixcare) · [Paper](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS) |
+| 🏆 **Planetopia** | Gamified environmental education | MERN · SIH 2025 Finalist | 🏅 Finalist | [Live](https://planetopia-ecospark.netlify.app/) · [Demo](https://www.youtube.com/watch?v=YNPv22hxtF4) |
+| 🌱 **Carbon Ingest** | Carbon emissions data ingestion & audit | Django · React · Data pipelines | 🟢 Live | [Live](https://carbon-ingest.onrender.com/) · [Code](https://github.com/Gokul7904231/Carbon-ingest) |
+
+<br/>
+
+### ⭐ Flagship
+
+<table width="100%">
+<tr>
+<td colspan="2">
+
+<h3>⚙️ ShortForge — AI Short-Form Video Generation Platform</h3>
+
+<p><i>A video "factory" where AI agents plan, GPU workers render, and verification decides what ships.</i></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b>🎯 What it does</b>
+<ul>
+<li>Runs a closed-loop pipeline on the <b>FactoryOS</b> <b>F00–F07</b> architecture</li>
+<li><b>Ascalon</b> handles cognitive decisioning across the pipeline</li>
+<li>Agentic orchestration with <b>MCP</b> tooling and provider routing</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<b>🛡️ How it stays reliable</b>
+<ul>
+<li>Distributed GPU rendering with <b>leases &amp; fencing</b></li>
+<li><b>Typed contracts</b> between components</li>
+<li><b>Verification-driven</b> release controls</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<p>
+<code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Python</code> <code>FastAPI</code> <code>LLMs</code> <code>MCP</code> <code>Docker</code>
+</p>
+
+<p>
+<a href="https://shortforge.gokul.software/"><img src="https://img.shields.io/badge/🚀%20LIVE-ShortForge-16A34A?style=for-the-badge"/></a>
+&nbsp;
+<a href="https://github.com/Gokul7904231/ShortForge"><img src="https://img.shields.io/badge/⌘%20GITHUB-ShortForge-18181B?style=for-the-badge"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🧩 More Projects
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 Sentixcare</h3>
+<p><i>Mood-driven personalized recommendation system</i></p>
+
+<b>What it does</b><br/>
+Reads emotion from facial expressions (FER-2013) and text mood input, then recommends personalized wellness interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
+
+<br/><br/>
+<b>Highlights</b>
+<ul>
+<li>Multimodal: computer vision + NLP</li>
+<li>Published at <b>ICRIT '26</b></li>
+</ul>
+
+<code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>CNN</code> <code>NLP</code> <code>Flask</code> <code>Streamlit</code>
+
+<p>
+<a href="https://sentixcare.gokul.software/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
+<a href="https://github.com/Gokul7904231/Sentixcare"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
+<a href="https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS"><img src="https://img.shields.io/badge/📄%20PAPER-7C3AED?style=flat-square"/></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🦅 HireHawk</h3>
+<p><i>Autonomous AI job-application copilot</i></p>
+
+<b>What it does</b><br/>
+A multi-agent platform with a Chrome MV3 extension that researches companies, tailors resumes, asks for human approval, and tracks every application.
+
+<br/><br/>
+<b>Highlights</b>
+<ul>
+<li>LangGraph orchestration + MCP servers</li>
+<li>Human-in-the-loop approval before anything is sent</li>
+</ul>
+
+<code>Python</code> <code>TypeScript</code> <code>LangGraph</code> <code>FastAPI</code> <code>MCP</code> <code>React</code> <code>Cloudflare</code>
+
+<p>
+<a href="https://hirehawk-dashboard.pages.dev/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
+<a href="https://github.com/Gokul7904231/HireHawk"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏆 Planetopia</h3>
+<p><i>SIH 2025 Finalist — gamified environmental education</i></p>
+
+<b>What it does</b><br/>
+A MERN platform that teaches environmental awareness through gamification, dashboards and reward systems.
+
+<br/><br/>
+<b>Highlights</b>
+<ul>
+<li>Built in a <b>36-hour</b> hackathon sprint</li>
+<li>Won the internal round, then reached the national finals</li>
+</ul>
+
+<code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>REST APIs</code>
+
+<p>
+<a href="https://planetopia-ecospark.netlify.app/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
+<a href="https://www.youtube.com/watch?v=YNPv22hxtF4"><img src="https://img.shields.io/badge/▶%20DEMO-E11D48?style=flat-square"/></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌱 Carbon Ingest Platform</h3>
+<p><i>Enterprise carbon data ingestion &amp; audit system</i></p>
+
+<b>What it does</b><br/>
+Ingests, normalizes, reviews and audits Scope 1, 2 and 3 emissions data coming from enterprise sources.
+
+<br/><br/>
+<b>Highlights</b>
+<ul>
+<li>Review and audit workflow for data quality</li>
+<li>Django REST API + React frontend</li>
+</ul>
+
+<code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code>
+
+<p>
+<a href="https://carbon-ingest.onrender.com/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
+<a href="https://github.com/Gokul7904231/Carbon-ingest"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 🏗️ Architecture Spotlight — ShortForge
+
+A simplified view of the closed-loop idea behind the platform:
+
+```mermaid
+flowchart LR
+    A[🎬 Brief / Prompt] --> B[🧠 Ascalon<br/>Cognitive Decisioning]
+    B --> C[🤖 Agent Orchestration<br/>MCP Tools]
+    C --> D[🔀 Provider Routing]
+    D --> E[🖥️ Distributed GPU Rendering<br/>Leases + Fencing]
+    E --> F{✅ Verification Gates}
+    F -- pass --> G[🚀 Release]
+    F -- fail --> B
+    G -. feedback .-> B
+```
+
+<sub>Typed contracts connect every stage; failed verification loops back into decisioning instead of shipping bad output.</sub>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Experience
+
+### 🤖 AI/ML Intern — Infosys Limited `Aug 2025 – Oct 2025`
+- Built a **CNN + NLP hybrid** for real-time mood-based music playback using **OpenCV + PyTorch**
+- Optimized inference pipelines for high-speed webcam detection; deployed backends via **Flask** and **Streamlit**
+- Owned the full AI lifecycle — data ingestion → model training → production deployment — in an Agile team
+
+### 🌐 Full Stack Developer Intern — Zidio Development `Jul 2024 – Sep 2024`
+- Built a **MERN-stack** Job Hunt platform with RESTful APIs supporting full CRUD
+- Reduced frontend latency by **35%** and kept API response times under **500ms**
+- Delivered all milestones **2 weeks ahead of schedule** in an Agile/Scrum setup
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 🧭 How I Build
 
 | Principle | What it looks like in my work |
 |:--|:--|
-| 🧾 **Typed contracts** | Agents, tools and services talk through explicit schemas, not vibes |
-| 🔒 **Leases & fencing** | Distributed GPU workers can't double-run or corrupt a job |
-| ✅ **Verification-driven releases** | Outputs are checked before they ship — not after users complain |
-| 🙋 **Human-in-the-loop** | Autonomy where it's safe, approval gates where it matters (HireHawk) |
-| 🛡️ **LLM security mindset** | Certified in LLM security (CLLMSP, 95%) — prompt-injection and tool-abuse aware |
-| 🚢 **Ship, then iterate** | Live deployments for every flagship project, not just repos |
+| 🧾 **Clear contracts** | Agents, tools and services talk through explicit schemas |
+| ✅ **Verify before shipping** | Outputs are checked before release, not after users complain |
+| 🙋 **Human in the loop** | Autonomy where it's safe, approval gates where it matters (HireHawk) |
+| 🛡️ **Security-aware LLM work** | CLLMSP-certified (95%) — prompt-injection and tool-abuse aware |
+| 🚢 **Ship, then iterate** | Live deployments for my projects, not just repos |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
@@ -188,269 +444,6 @@ class Developer:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience
-
-### 🤖 AI/ML Intern — Infosys Limited `Aug 2025 – Oct 2025`
-- Built a **CNN + NLP hybrid** for real-time mood-based music playback using **OpenCV + PyTorch**
-- Optimized inference pipelines for high-speed webcam detection; deployed backends via **Flask** and **Streamlit**
-- Owned the full AI lifecycle — data ingestion → model training → production deployment — in an Agile team
-
-### 🌐 Full Stack Developer Intern — Zidio Development `Jul 2024 – Sep 2024`
-- Built a **MERN-stack** Job Hunt platform with RESTful APIs supporting full CRUD
-- Reduced frontend latency by **35%** and kept API response times under **500ms**
-- Delivered all milestones **2 weeks ahead of schedule** in an Agile/Scrum setup
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 Projects
-
-<div align="center">
-
-### ⚡ Things I'm Building
-
-<sub>AI systems • Agentic workflows • Multimodal AI • Distributed compute • Full-stack engineering</sub>
-
-</div>
-
-<br/>
-
-<table width="100%">
-
-<!-- ROW 1 — FLAGSHIP -->
-<tr>
-<td colspan="2" valign="top">
-
-<h2>⚙️ ShortForge — AI Short-Form Video Generation Platform</h2>
-
-<p>
-<b>My flagship AI systems project.</b> A production-oriented video generation factory built around
-<b>FactoryOS</b> and the canonical <b>F00–F07</b> closed-loop architecture.
-</p>
-
-<p>
-ShortForge combines <b>agentic orchestration</b>, <b>Ascalon cognitive decisioning</b>,
-<b>distributed GPU rendering</b>, provider routing, MCP tooling, leases/fencing,
-typed contracts, and verification-driven release controls.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/AI_Video-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed_Compute-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ascalon-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FactoryOS-111827?style=for-the-badge"/>
-</p>
-
-<p>
-<code>TypeScript</code>
-<code>Next.js</code>
-<code>React</code>
-<code>Python</code>
-<code>FastAPI</code>
-<code>LLMs</code>
-<code>MCP</code>
-<code>Docker</code>
-</p>
-
-<p>
-<a href="https://shortforge.gokul.software/">
-<img src="https://img.shields.io/badge/🚀%20LIVE-ShortForge-16A34A?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://github.com/Gokul7904231/ShortForge">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-ShortForge-18181B?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-</tr>
-
-<!-- ROW 2 — AI SYSTEMS -->
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🧠 Sentixcare</h2>
-
-<b>Mood-Driven Personalized Recommendation System</b>
-
-<p>
-Multimodal emotion AI combining facial emotion recognition (FER-2013),
-NLP-based mood input, recommendation systems, and personalized wellness
-interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Multimodal_AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Emotion_AI-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research-7C3AED?style=flat-square"/>
-</p>
-
-<code>Python</code>
-<code>PyTorch</code>
-<code>OpenCV</code>
-<code>CNN</code>
-<code>NLP</code>
-<code>Flask</code>
-<code>Streamlit</code>
-
-<p>
-<a href="https://sentixcare.gokul.software/">
-<img src="https://img.shields.io/badge/🚀%20LIVE-Sentixcare-16A34A?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Gokul7904231/Sentixcare">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-Sentixcare-18181B?style=for-the-badge"/>
-</a>
-</p>
-
-<p>
-<a href="https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS">
-<img src="https://img.shields.io/badge/📄%20RESEARCH-ICRIT%20%2726-7C3AED?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🦅 HireHawk</h2>
-
-<b>Autonomous AI Job Application Copilot</b>
-
-<p>
-A multi-agent job application platform combining a Chrome MV3 extension,
-LangGraph orchestration, MCP servers, company intelligence, resume
-tailoring, HITL approval, and application tracking.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Multi--Agent_AI-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/HITL-2563EB?style=flat-square"/>
-</p>
-
-<code>Python</code>
-<code>TypeScript</code>
-<code>LangGraph</code>
-<code>FastAPI</code>
-<code>MCP</code>
-<code>React</code>
-<code>Cloudflare</code>
-
-<p>
-<a href="https://hirehawk-dashboard.pages.dev/">
-<img src="https://img.shields.io/badge/🚀%20LIVE-HireHawk-16A34A?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Gokul7904231/HireHawk">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-HireHawk-18181B?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<!-- ROW 3 — PROJECTS -->
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🏆 Planetopia</h2>
-
-<b>SIH 2025 Finalist — Gamified Environmental Education</b>
-
-<p>
-MERN-based environmental education platform created during the
-Smart India Hackathon. Includes gamification, dashboards, reward systems,
-and integrated application workflows.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/MERN-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/SIH%202025-Finalist-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/36%20Hour%20Build-059669?style=flat-square"/>
-</p>
-
-<code>React.js</code>
-<code>Node.js</code>
-<code>Express.js</code>
-<code>MongoDB</code>
-<code>REST APIs</code>
-
-<p>
-<a href="https://planetopia-ecospark.netlify.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE-Planetopia-16A34A?style=for-the-badge"/>
-</a>
-<a href="https://www.youtube.com/watch?v=YNPv22hxtF4">
-<img src="https://img.shields.io/badge/▶%20DEMO-YouTube-E11D48?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🌱 Carbon Ingest Platform</h2>
-
-<b>Enterprise Carbon Data Ingestion & Audit System</b>
-
-<p>
-Django + React platform for ingesting, normalizing, reviewing, and
-auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Data_Pipelines-D97706?style=flat-square"/>
-<img src="https://img.shields.io/badge/Audit_Trail-D97706?style=flat-square"/>
-<img src="https://img.shields.io/badge/ESG-D97706?style=flat-square"/>
-</p>
-
-<code>Django</code>
-<code>DRF</code>
-<code>React</code>
-<code>PostgreSQL</code>
-<code>Docker</code>
-
-<p>
-<a href="https://carbon-ingest.onrender.com/">
-<img src="https://img.shields.io/badge/🚀%20LIVE-Carbon%20Ingest-16A34A?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Gokul7904231/Carbon-ingest">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-Carbon--ingest-18181B?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-## 🏗️ Architecture Spotlight — ShortForge
-
-A simplified view of the closed-loop idea behind the platform:
-
-```mermaid
-flowchart LR
-    A[🎬 Brief / Prompt] --> B[🧠 Ascalon<br/>Cognitive Decisioning]
-    B --> C[🤖 Agent Orchestration<br/>MCP Tools]
-    C --> D[🔀 Provider Routing]
-    D --> E[🖥️ Distributed GPU Rendering<br/>Leases + Fencing]
-    E --> F{✅ Verification Gates}
-    F -- pass --> G[🚀 Release]
-    F -- fail --> B
-    G -. feedback .-> B
-```
-
-<sub>Typed contracts connect every stage; failed verification loops back into decisioning instead of shipping bad output.</sub>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
 ## 📄 Research Publications
 
 | Year | Title | Venue | Link |
@@ -468,16 +461,16 @@ flowchart LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 🎓 Certifications
+## 🎓 Certifications & Programs
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><br/>
-      <b>AWS Certified Cloud Practitioner</b><br/>
-      <sub>Amazon Web Services</sub><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-AI_Practitioner_Challenge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><br/>
+      <b>AWS AI Practitioner Challenge</b><br/>
+      <sub>Udacity · Jun 2026</sub><br/><br/>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/CLLMSP-LLM_Security-6EE7B7?style=for-the-badge&logo=openai&logoColor=black"/><br/><br/>
@@ -513,28 +506,11 @@ flowchart LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420&v=1.0.1" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6&v=1.0.1" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6&custom_title=Gokul's%20Contribution%20Graph&v=1.0.1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
 ## 🤝 Let's Work Together
 
 <div align="center">
 
-**Hiring for AI/ML, agentic AI, or full-stack?** I ship fast, document well, and care about reliability.
+**Hiring for an entry-level AI/ML, software engineering or full-stack role?** I learn fast, ship working demos, and care about reliability.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gokul.software-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.gokul.software/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul1234-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul1234)
