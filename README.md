@@ -19,78 +19,25 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Gokul A"
-        self.role        = "AI/ML Engineer | LLM & Agent Systems | Full Stack"
-        self.education   = "B.Tech Computer Science — Crescent College [2026 Batch]"
-
-        self.currently_building = [
-            "ShortForge — AI Video Generation Factory",
-            "HireHawk — Autonomous AI Job Application Copilot",
-            "Gen-V — AI Short Video Generator"
+        self.name           = "Gokul A"
+        self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
+        
+        self.internships    = [
+            "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
+            "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"
         ]
-
-        self.focus        = [
-            "AI / ML", "LLMs", "Agentic AI",
-            "Multimodal AI", "AI Video", "Distributed Systems"
-        ]
-
-        self.core_stack   = [
-            "PyTorch", "LangGraph", "LangChain", "MCP",
-            "TypeScript", "React.js", "FastAPI", "Docker", "AWS"
-        ]
-
-        self.highlights   = [
-            "AI/ML Intern @ Infosys",
-            "Full Stack Developer @ Zidio",
-            "SIH 2025 Finalist",
-            "Published AI/ML Research"
-        ]
-
-        self.certifications = [
-            "AWS Certified Cloud Practitioner",
-            "CLLMSP — LLM Security (95%)"
-        ]
+        
+        self.flagship       = "ShortForge — AI Video Generation Factory [Active]"
+        self.recent_projects = ["HireHawk — Autonomous AI Job Application Copilot", "Gen-V — AI Short Video Generator"]
+        self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
+        self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
+        
+        self.core_stack     = ["PyTorch", "LangGraph", "LangChain", "MCP", "TypeScript", "React.js", "FastAPI", "Docker", "AWS"]
+        self.certifications = ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"]
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
  
- 
-## 🧭 Engineering Focus
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Intelligence
-
-<b>Machine Learning</b><br/>
-Computer Vision • NLP • Multimodal AI • Emotion AI
-
-<br/><br/>
-
-<b>LLM Systems</b><br/>
-LangChain • LangGraph • MCP • Retrieval • Local Models
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Systems & Product Engineering
-
-<b>Agentic Systems</b><br/>
-Orchestration • Tool use • HITL • Verification • Reliability
-
-<br/><br/>
-
-<b>Infrastructure</b><br/>
-APIs • Docker • GPU Compute • Distributed Workers • Cloud
-
-</td>
-</tr>
-</table>
-
-> **Engineering mindset:** connect models to real systems — with typed interfaces, explicit state, observable execution, and controlled failure paths.
-
-## 🧠 AI / ML Stack
+ ## 🧠 AI / ML Stack
  
 <div align="center">
 
@@ -197,20 +144,6 @@ APIs • Docker • GPU Compute • Distributed Workers • Cloud
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
-
-
-## 🎯 Recruiter Quick Scan
-
-| Area | What you can see in my work |
-| :--- | :--- |
-| **AI / ML** | PyTorch, TensorFlow, OpenCV, multimodal emotion AI |
-| **LLM / Agents** | LangGraph, LangChain, MCP, HITL, agent orchestration |
-| **AI Products** | AI video generation, job-application copilot, recommendation systems |
-| **Backend** | FastAPI, Flask, Node.js, Django, REST APIs |
-| **Systems** | Distributed GPU compute, worker coordination, verification, Docker |
-| **Frontend** | React, Next.js, Tailwind, Vite |
-| **Data** | PostgreSQL, MongoDB, Firebase, Prisma |
-
 ## 🚀 Projects
 
 <div align="center">
@@ -225,22 +158,23 @@ APIs • Docker • GPU Compute • Distributed Workers • Cloud
 
 <table width="100%">
 
+<!-- ROW 1 — FLAGSHIP -->
+
 <tr>
+
 <td colspan="2" valign="top">
 
 <h2>⚙️ ShortForge — AI Short-Form Video Generation Platform</h2>
 
-<p><b>FLAGSHIP • AI VIDEO • AGENTIC SYSTEMS • DISTRIBUTED COMPUTE</b></p>
-
 <p>
-A production-oriented AI video generation factory built around
+<b>My flagship AI systems project.</b> A production-oriented video generation factory built around
 <b>FactoryOS</b> and the canonical <b>F00–F07</b> closed-loop architecture.
 </p>
 
 <p>
-ShortForge brings together <b>agentic orchestration</b>, <b>Ascalon cognitive
-decisioning</b>, <b>distributed GPU rendering</b>, provider routing, MCP tooling,
-leases/fencing, typed contracts, and verification-driven release controls.
+ShortForge combines <b>agentic orchestration</b>, <b>Ascalon cognitive decisioning</b>,
+<b>distributed GPU rendering</b>, provider routing, MCP tooling, leases/fencing,
+typed contracts, and verification-driven release controls.
 </p>
 
 <p>
@@ -263,19 +197,6 @@ leases/fencing, typed contracts, and verification-driven release controls.
 <code>Docker</code>
 </p>
 
-<details>
-<summary><b>🔍 Engineering focus</b></summary>
-
-<br/>
-
-<b>Control plane</b> → FactoryOS / Overseer / governance<br/>
-<b>Cognitive layer</b> → Ascalon / worker capability decisioning<br/>
-<b>Production pipeline</b> → F00–F07 floor execution<br/>
-<b>Compute</b> → distributed GPU workers / provider routing<br/>
-<b>Reliability</b> → leases / fencing / verification / release controls
-
-</details>
-
 <p>
 <a href="https://shortforge.gokul.software/">
 <img src="https://img.shields.io/badge/🚀%20LIVE-ShortForge-16A34A?style=for-the-badge"/>
@@ -287,8 +208,11 @@ leases/fencing, typed contracts, and verification-driven release controls.
 </p>
 
 </td>
+
 </tr>
 
+
+<!-- ROW 2 — AI SYSTEMS -->
 
 <tr>
 
@@ -296,15 +220,13 @@ leases/fencing, typed contracts, and verification-driven release controls.
 
 <h2>🧠 Sentixcare</h2>
 
-<b>MOOD-DRIVEN PERSONALIZED RECOMMENDATION SYSTEM</b>
+<b>Mood-Driven Personalized Recommendation System</b>
 
 <p>
 Multimodal emotion AI combining facial emotion recognition, FER-2013,
 NLP-based mood input, recommendation systems, and personalized wellness
 interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
 </p>
-
-<p><b>Signals:</b> Multimodal AI • Computer Vision • NLP • Research • Deployment</p>
 
 <p>
 <img src="https://img.shields.io/badge/Multimodal_AI-7C3AED?style=flat-square"/>
@@ -336,15 +258,6 @@ interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
 </a>
 </p>
 
-<details>
-<summary><b>🔍 System shape</b></summary>
-
-<br/>
-
-Input → emotion detection → ERS / AEISA → personalized recommendation
-
-</details>
-
 </td>
 
 
@@ -352,15 +265,13 @@ Input → emotion detection → ERS / AEISA → personalized recommendation
 
 <h2>🦅 HireHawk</h2>
 
-<b>AUTONOMOUS AI JOB APPLICATION COPILOT</b>
+<b>Autonomous AI Job Application Copilot</b>
 
 <p>
 A multi-agent job application platform combining a Chrome MV3 extension,
 LangGraph orchestration, MCP servers, company intelligence, resume
 tailoring, HITL approval, and application tracking.
 </p>
-
-<p><b>Signals:</b> Agentic AI • MCP • Browser Extension • HITL • Automation</p>
 
 <p>
 <img src="https://img.shields.io/badge/Multi--Agent_AI-2563EB?style=flat-square"/>
@@ -386,62 +297,26 @@ tailoring, HITL approval, and application tracking.
 </a>
 </p>
 
-<details>
-<summary><b>🔍 System shape</b></summary>
-
-<br/>
-
-Chrome Extension → Cloudflare Worker → LangGraph → MCP tools → tracking / HITL
-
-</details>
-
 </td>
+
 </tr>
 
+
+<!-- ROW 3 — PROJECTS -->
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h2>🎥 Gen-V</h2>
-
-<b>AI SHORT VIDEO GENERATOR</b>
-
-<p>
-Active AI video-generation project focused on script generation, scene
-planning, provider-agnostic model routing, structured JSON/Zod validation,
-and local/remote generation backends, including CogVideoX.
-</p>
-
-<p><b>Signals:</b> Generative AI • Video AI • Provider Abstraction • Structured Outputs</p>
-
-<code>Next.js</code>
-<code>React</code>
-<code>Tailwind</code>
-<code>Gemini</code>
-<code>Groq</code>
-<code>OpenRouter</code>
-<code>Hugging Face</code>
-<code>CogVideoX</code>
-
-<p><b>Status:</b> Active development</p>
-
-</td>
-
-
-<td width="50%" valign="top">
-
 <h2>🏆 Planetopia</h2>
 
-<b>SIH 2025 FINALIST — GAMIFIED ENVIRONMENTAL EDUCATION</b>
+<b>SIH 2025 Finalist — Gamified Environmental Education</b>
 
 <p>
 MERN-based environmental education platform created during the
 Smart India Hackathon. Includes gamification, dashboards, reward systems,
 and integrated application workflows.
 </p>
-
-<p><b>Signals:</b> MERN • Hackathon Delivery • Gamification • Full-Stack</p>
 
 <p>
 <img src="https://img.shields.io/badge/MERN-059669?style=flat-square"/>
@@ -468,38 +343,24 @@ and integrated application workflows.
 </p>
 
 </td>
-</tr>
 
-
-<tr>
 
 <td width="50%" valign="top">
 
 <h2>🌱 Carbon Ingest Platform</h2>
 
-<b>ENTERPRISE CARBON DATA INGESTION & AUDIT SYSTEM</b>
+<b>Enterprise Carbon Data Ingestion & Audit System</b>
 
 <p>
 Django + React platform for ingesting, normalizing, reviewing, and
 auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
 </p>
 
-<p><b>Signals:</b> Data Engineering • Domain Modeling • Django • React • PostgreSQL</p>
-
 <code>Django</code>
 <code>DRF</code>
 <code>React</code>
 <code>PostgreSQL</code>
 <code>Docker</code>
-
-<details>
-<summary><b>🔍 Data flow</b></summary>
-
-<br/>
-
-Enterprise source → parser → normalization → review → audit workflow
-
-</details>
 
 <p>
 <a href="https://carbon-ingest.onrender.com/">
@@ -512,95 +373,8 @@ Enterprise source → parser → normalization → review → audit workflow
 
 </td>
 
-
-<td width="50%" valign="top">
-
-<h2>🔎 Search Engine Using EXA</h2>
-
-<b>AI-POWERED WEB SEARCH & RETRIEVAL</b>
-
-<p>
-Lightweight search application built around the <b>Exa API</b> for web
-search and retrieval.
-</p>
-
-<p><b>Signals:</b> Search • Retrieval • APIs • AI Applications</p>
-
-<code>Python</code>
-<code>Exa API</code>
-
-<p>
-<a href="https://github.com/Gokul7904231/Search_Engine_Using_EXA">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-Search--Engine--Using--EXA-181717?style=flat-square&logo=github"/>
-</a>
-</p>
-
-</td>
 </tr>
 
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>🔁 Outreach Pipeline</h2>
-
-<b>AI-POWERED B2B COLD OUTREACH AUTOMATION</b>
-
-<p>
-End-to-end B2B outreach platform using prospect sourcing,
-AI-generated personalization, and automated email delivery.
-</p>
-
-<p><b>Signals:</b> AI Automation • APIs • Email Workflows • Product Engineering</p>
-
-<code>Node.js</code>
-<code>JavaScript</code>
-<code>React</code>
-<code>Gemini</code>
-<code>Brevo</code>
-<code>Automation</code>
-
-<p>
-<a href="https://github.com/Gokul7904231/Outreach-pipeline">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-Outreach--pipeline-18181B?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h2>🛍️ Apex Shopify Analytics</h2>
-
-<b>SHOPIFY ANALYTICS & RECOMMENDATION SaaS</b>
-
-<p>
-Full-stack Shopify analytics platform with authentication,
-subscriptions, real-time analytics, search, caching, and
-recommendation logic.
-</p>
-
-<p><b>Signals:</b> SaaS • Analytics • Recommendations • Full-Stack</p>
-
-<code>React</code>
-<code>TypeScript</code>
-<code>Node.js</code>
-<code>PostgreSQL</code>
-<code>Prisma</code>
-
-<p>
-<a href="https://github.com/Gokul7904231/Apex-Shopify-Engine">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-Apex--Shopify--Engine-18181B?style=for-the-badge"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
