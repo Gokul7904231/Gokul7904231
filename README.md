@@ -143,7 +143,8 @@ class Developer:
 - Delivered all milestones **2 weeks ahead of schedule** in an Agile/Scrum setup
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- ## 🚀 Projects
+
+## 🚀 Projects
 
 <div align="center">
 
@@ -156,7 +157,11 @@ class Developer:
 <br/>
 
 <table width="100%">
+
+<!-- ROW 1 — FLAGSHIP -->
+
 <tr>
+
 <td colspan="2" valign="top">
 
 <h2>⚙️ ShortForge — AI Short-Form Video Generation Platform</h2>
@@ -203,9 +208,14 @@ typed contracts, and verification-driven release controls.
 </p>
 
 </td>
+
 </tr>
 
+
+<!-- ROW 2 — AI SYSTEMS -->
+
 <tr>
+
 <td width="50%" valign="top">
 
 <h2>🧠 Sentixcare</h2>
@@ -225,7 +235,13 @@ interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
 <img src="https://img.shields.io/badge/Research-7C3AED?style=flat-square"/>
 </p>
 
-`Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
+<code>Python</code>
+<code>PyTorch</code>
+<code>OpenCV</code>
+<code>CNN</code>
+<code>NLP</code>
+<code>Flask</code>
+<code>Streamlit</code>
 
 <p>
 <a href="https://sentixcare.gokul.software/">
@@ -243,6 +259,7 @@ interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
 </p>
 
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -263,7 +280,13 @@ tailoring, HITL approval, and application tracking.
 <img src="https://img.shields.io/badge/HITL-2563EB?style=flat-square"/>
 </p>
 
-`Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
+<code>Python</code>
+<code>TypeScript</code>
+<code>LangGraph</code>
+<code>FastAPI</code>
+<code>MCP</code>
+<code>React</code>
+<code>Cloudflare</code>
 
 <p>
 <a href="https://hirehawk-dashboard.pages.dev/">
@@ -275,12 +298,15 @@ tailoring, HITL approval, and application tracking.
 </p>
 
 </td>
+
 </tr>
 
+
+<!-- ROW 3 — PROJECTS -->
+
 <tr>
+
 <td width="50%" valign="top">
-
-
 
 <h2>🏆 Planetopia</h2>
 
@@ -298,7 +324,11 @@ and integrated application workflows.
 <img src="https://img.shields.io/badge/36%20Hour%20Build-059669?style=flat-square"/>
 </p>
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+<code>React.js</code>
+<code>Node.js</code>
+<code>Express.js</code>
+<code>MongoDB</code>
+<code>REST APIs</code>
 
 <p>
 <a href="https://planetopia-ecospark.netlify.app/">
@@ -313,12 +343,176 @@ and integrated application workflows.
 </p>
 
 </td>
-</tr>
 
-<tr>
+
 <td width="50%" valign="top">
 
+<h2>🎥 Gen-V</h2>
 
+<b>AI Short Video Generator</b>
+
+<p>
+AI video generation system focused on script generation, scene planning,
+provider-agnostic model routing, structured JSON/Zod validation, and
+local/remote generation backends including CogVideoX.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Video_AI-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/CogVideoX-EC4899?style=flat-square"/>
+</p>
+
+<code>Next.js</code>
+<code>React</code>
+<code>Tailwind</code>
+<code>Gemini</code>
+<code>Groq</code>
+<code>OpenRouter</code>
+<code>Hugging Face</code>
+<code>CogVideoX</code>
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-Active%20Development-F59E0B?style=for-the-badge"/>
+</p>
+
+</td>
+
+</tr>
+
+
+<!-- ROW 4 — ENGINEERING -->
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🌱 Carbon Ingest Platform</h2>
+
+<b>Enterprise Carbon Data Ingestion & Audit System</b>
+
+<p>
+Django + React platform for ingesting, normalizing, reviewing, and
+auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
+</p>
+
+<code>Django</code>
+<code>DRF</code>
+<code>React</code>
+<code>PostgreSQL</code>
+<code>Docker</code>
+
+<p>
+<a href="https://carbon-ingest.onrender.com/">
+<img src="https://img.shields.io/badge/🚀%20LIVE-Carbon%20Ingest-16A34A?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Gokul7904231/Carbon-ingest">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-Carbon--ingest-18181B?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h2>🔎 Search Engine Using EXA</h2>
+
+<b>AI-Powered Web Search & Retrieval</b>
+
+<p>
+Lightweight search application built around the <b>Exa API</b> for
+web search and retrieval.
+</p>
+
+<code>Python</code>
+<code>Exa API</code>
+
+<p>
+<a href="https://github.com/Gokul7904231/Search_Engine_Using_EXA">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-Search%20Engine%20Using%20EXA-18181B?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+
+<!-- ROW 5 — OTHER -->
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🔁 Outreach Pipeline</h2>
+
+<b>AI-Powered B2B Cold Outreach Automation</b>
+
+<p>
+End-to-end B2B outreach platform using prospect sourcing,
+AI-generated personalization, and automated email delivery.
+</p>
+
+<code>Node.js</code>
+<code>JavaScript</code>
+<code>React</code>
+<code>Gemini</code>
+<code>Brevo</code>
+<code>Automation</code>
+
+<p>
+<a href="https://github.com/Gokul7904231/Outreach-pipeline">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-Outreach--pipeline-18181B?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h2>🛍️ Apex Shopify Analytics</h2>
+
+<b>Shopify Analytics & Recommendation SaaS</b>
+
+<p>
+Full-stack Shopify analytics platform with authentication,
+subscriptions, real-time analytics, search, caching, and
+recommendation logic.
+</p>
+
+<code>React</code>
+<code>TypeScript</code>
+<code>Node.js</code>
+<code>PostgreSQL</code>
+<code>Prisma</code>
+
+<p>
+<a href="https://github.com/Gokul7904231/Apex-Shopify-Engine">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-Apex--Shopify--Engine-18181B?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Gokul7904231">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 ## 📄 Research Publications
  
 | Year | Title | Venue | Link |
