@@ -124,7 +124,7 @@ class Developer:
 | ⚙️ **ShortForge** | AI short-form video generation platform | Agentic AI · Distributed GPU | 🟢 Active | [Live](https://shortforge.gokul.software/) · [Code](https://github.com/Gokul7904231/ShortForge) |
 | 🦅 **HireHawk** | Autonomous job-application copilot | Multi-agent · Chrome extension | 🟢 Live | [Live](https://hirehawk-dashboard.pages.dev/) · [Code](https://github.com/Gokul7904231/HireHawk) |
 | 🧠 **Sentixcare** | Mood-driven recommendation system | Multimodal AI · Research | 📄 Published | [Live](https://sentixcare.gokul.software/) · [Code](https://github.com/Gokul7904231/Sentixcare) · [Paper](https://doi.org/10.5281/zenodo.21064337) |
-| 🏆 **Planetopia** | Gamified environmental education | MERN · SIH 2025 Finalist | 🏅 Finalist | [Live](https://planetopia-ecospark.netlify.app/) · [Demo](https://www.youtube.com/watch?v=YNPv22hxtF4) |
+| 🏆 **Planetopia** | Gamified environmental education | MERN · SIH 2025 Finalist | 🏅 Finalist | [Live](https://planetopia-ecospark.netlify.app/) · [Demo](https://www.youtube.com/watch?v=YNPv22hxtF4) |· [ppt](https://drive.google.com/file/d/1kTBj-E50B982Vtf-XOr1x3roCtOHsgub/view?usp=sharing) 
 | 🌱 **Carbon Ingest** | Carbon emissions data ingestion & audit | Django · React · Data pipelines | 🟢 Live | [Live](https://carbon-ingest.onrender.com/) · [Code](https://github.com/Gokul7904231/Carbon-ingest) |
 
 <br/>
