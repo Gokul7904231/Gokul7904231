@@ -151,7 +151,7 @@ class Developer:
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ ShortForge
+### ⚙️ ShortForge – AI Short-Form Video Generation Platform
 
 AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
 
@@ -164,7 +164,7 @@ AI video generation factory built around **FactoryOS** and the canonical **F00�
 
 <td width="50%" valign="top">
 
-### 🧠 Sentixcare - ## Mood-Driven Personalized Recommendation System
+### 🧠 Sentixcare - Mood-Driven Personalized Recommendation System
 
 Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
 
