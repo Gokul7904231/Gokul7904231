@@ -151,7 +151,7 @@ class Developer:
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ ShortForge — ⭐ Flagship AI Project
+### ⚙️ ShortForge 
 
 AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
 
@@ -184,7 +184,7 @@ Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendatio
 
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://sentixcare.gokul.software/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
 
 [![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
