@@ -123,7 +123,7 @@ class Developer:
 |:--|:--|:--|:--:|:--|
 | ⚙️ **ShortForge** | AI short-form video generation platform | Agentic AI · Distributed GPU | 🟢 Active | [Live](https://shortforge.gokul.software/) · [Code](https://github.com/Gokul7904231/ShortForge) |
 | 🦅 **HireHawk** | Autonomous job-application copilot | Multi-agent · Chrome extension | 🟢 Live | [Live](https://hirehawk-dashboard.pages.dev/) · [Code](https://github.com/Gokul7904231/HireHawk) |
-| 🧠 **Sentixcare** | Mood-driven recommendation system | Multimodal AI · Research | 📄 Published | [Live](https://sentixcare.gokul.software/) · [Code](https://github.com/Gokul7904231/Sentixcare) · [Paper](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS) |
+| 🧠 **Sentixcare** | Mood-driven recommendation system | Multimodal AI · Research | 📄 Published | [Live](https://sentixcare.gokul.software/) · [Code](https://github.com/Gokul7904231/Sentixcare) · [Paper](https://doi.org/10.5281/zenodo.21064337) |
 | 🏆 **Planetopia** | Gamified environmental education | MERN · SIH 2025 Finalist | 🏅 Finalist | [Live](https://planetopia-ecospark.netlify.app/) · [Demo](https://www.youtube.com/watch?v=YNPv22hxtF4) |
 | 🌱 **Carbon Ingest** | Carbon emissions data ingestion & audit | Django · React · Data pipelines | 🟢 Live | [Live](https://carbon-ingest.onrender.com/) · [Code](https://github.com/Gokul7904231/Carbon-ingest) |
 
@@ -435,7 +435,7 @@ flowchart LR
 
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
-| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS) |
+| 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://doi.org/10.5281/zenodo.21064337) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
