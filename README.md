@@ -462,7 +462,7 @@ flowchart LR
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/CLLMSP-LLM_Security-6EE7B7?style=for-the-badge&logo=openai&logoColor=black"/><br/><br/>
       <b>Certified LLM Security Professional</b><br/>
-      <sub>Score: 95%</sub><br/><br/>
+      <sub>RedTeams · Score: 95%</sub><br/><br/>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Deep_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
