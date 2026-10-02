@@ -143,36 +143,136 @@ class Developer:
 - Delivered all milestones **2 weeks ahead of schedule** in an Agile/Scrum setup
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
-## 🚀 Projects
- 
-<table>
- 
+ ## 🚀 Projects
+
+<div align="center">
+
+### ⚡ Things I'm Building
+
+<sub>AI systems • Agentic workflows • Multimodal AI • Distributed compute • Full-stack engineering</sub>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td colspan="2" valign="top">
+
+<h2>⚙️ ShortForge — AI Short-Form Video Generation Platform</h2>
+
+<p>
+<b>My flagship AI systems project.</b> A production-oriented video generation factory built around
+<b>FactoryOS</b> and the canonical <b>F00–F07</b> closed-loop architecture.
+</p>
+
+<p>
+ShortForge combines <b>agentic orchestration</b>, <b>Ascalon cognitive decisioning</b>,
+<b>distributed GPU rendering</b>, provider routing, MCP tooling, leases/fencing,
+typed contracts, and verification-driven release controls.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AI_Video-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Compute-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ascalon-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FactoryOS-111827?style=for-the-badge"/>
+</p>
+
+<p>
+<code>TypeScript</code>
+<code>Next.js</code>
+<code>React</code>
+<code>Python</code>
+<code>FastAPI</code>
+<code>LLMs</code>
+<code>MCP</code>
+<code>Docker</code>
+</p>
+
+<p>
+<a href="https://shortforge.gokul.software/">
+<img src="https://img.shields.io/badge/🚀%20LIVE-ShortForge-16A34A?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://github.com/Gokul7904231/ShortForge">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-ShortForge-18181B?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ ShortForge – AI Short-Form Video Generation Platform
+<h2>🧠 Sentixcare</h2>
 
-AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
+<b>Mood-Driven Personalized Recommendation System</b>
 
-`TypeScript` `Next.js` `React` `Python` `FastAPI` `LLMs` `MCP` `Docker`
+<p>
+Multimodal emotion AI combining facial emotion recognition, FER-2013,
+NLP-based mood input, recommendation systems, and personalized wellness
+interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
+</p>
 
-[![Live](https://img.shields.io/badge/Live-ShortForge-2EA44F?style=flat-square)](https://shortforge.gokul.software/)
-[![GitHub](https://img.shields.io/badge/GitHub-ShortForge-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/ShortForge)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Sentixcare - Mood-Driven Personalized Recommendation System
-
-Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
+<p>
+<img src="https://img.shields.io/badge/Multimodal_AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Emotion_AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-7C3AED?style=flat-square"/>
+</p>
 
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
 
-[![Live](https://img.shields.io/badge/Live-Sentixcare-2EA44F?style=flat-square)](https://sentixcare.gokul.software/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
-[![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
+<p>
+<a href="https://sentixcare.gokul.software/">
+<img src="https://img.shields.io/badge/🚀%20LIVE-Sentixcare-16A34A?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Gokul7904231/Sentixcare">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-Sentixcare-18181B?style=for-the-badge"/>
+</a>
+</p>
+
+<p>
+<a href="https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS">
+<img src="https://img.shields.io/badge/📄%20RESEARCH-ICRIT%20%2726-7C3AED?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🦅 HireHawk</h2>
+
+<b>Autonomous AI Job Application Copilot</b>
+
+<p>
+A multi-agent job application platform combining a Chrome MV3 extension,
+LangGraph orchestration, MCP servers, company intelligence, resume
+tailoring, HITL approval, and application tracking.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Multi--Agent_AI-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/HITL-2563EB?style=flat-square"/>
+</p>
+
+`Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
+
+<p>
+<a href="https://hirehawk-dashboard.pages.dev/">
+<img src="https://img.shields.io/badge/🚀%20LIVE-HireHawk-16A34A?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Gokul7904231/HireHawk">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-HireHawk-18181B?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
 </tr>
@@ -180,35 +280,43 @@ Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendatio
 <tr>
 <td width="50%" valign="top">
 
-### 🦅 HireHawk — Autonomous AI Job Application Copilot
 
-Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, MCP servers, company intelligence, resume tailoring, HITL approval, and application tracking**.
 
-`Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
+<h2>🏆 Planetopia</h2>
 
-[![Live](https://img.shields.io/badge/Live-HireHawk-2EA44F?style=flat-square)](https://hirehawk-dashboard.pages.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-HireHawk-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/HireHawk)
+<b>SIH 2025 Finalist — Gamified Environmental Education</b>
 
-</td>
+<p>
+MERN-based environmental education platform created during the
+Smart India Hackathon. Includes gamification, dashboards, reward systems,
+and integrated application workflows.
+</p>
 
-<td width="50%" valign="top">
-
-### 🏆 Planetopia (SIH 2025 Finalist) — Gamified Environmental Education Platform
-
-Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SIH. Real-time dashboards, reward systems, integration-tested across all features.
+<p>
+<img src="https://img.shields.io/badge/MERN-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/SIH%202025-Finalist-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/36%20Hour%20Build-059669?style=flat-square"/>
+</p>
 
 `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
-[![Live](https://img.shields.io/badge/Live-Planetopia-2EA44F?style=flat-square)](https://planetopia-ecospark.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231)
-[![Demo Video](https://img.shields.io/badge/Demo_Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YNPv22hxtF4)
+<p>
+<a href="https://planetopia-ecospark.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE-Planetopia-16A34A?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Gokul7904231">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-Profile-18181B?style=for-the-badge"/>
+</a>
+<a href="https://www.youtube.com/watch?v=YNPv22hxtF4">
+<img src="https://img.shields.io/badge/▶%20DEMO-YouTube-E11D48?style=for-the-badge"/>
+</a>
+</p>
 
 </td>
 </tr>
 
-</table>
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 
 ## 📄 Research Publications
