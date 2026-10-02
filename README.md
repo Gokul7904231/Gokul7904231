@@ -378,6 +378,7 @@ auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
 ## 📄 Research Publications
  
 | Year | Title | Venue | Link |
