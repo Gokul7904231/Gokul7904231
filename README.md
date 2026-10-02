@@ -164,7 +164,7 @@ AI video generation factory built around **FactoryOS** and the canonical **F00�
 
 <td width="50%" valign="top">
 
-### 🧠 Sentixcare - Mood-Driven Personalized Recommendation System
+### 🧠 Sentixcare - ## Mood-Driven Personalized Recommendation System
 
 Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
 
@@ -172,7 +172,6 @@ Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendatio
 
 [![Live](https://img.shields.io/badge/Live-Sentixcare-2EA44F?style=flat-square)](https://sentixcare.gokul.software/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
-
 [![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
 
 </td>
