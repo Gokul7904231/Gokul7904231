@@ -185,8 +185,9 @@ Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendatio
 `Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
-[![Publication](https://img.shields.io/badge/ICRIT_'26-Published-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
+[![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
+
+[![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
 
 </td>
 
@@ -199,7 +200,7 @@ AI-powered meeting analysis platform. Turns raw conversations into structured in
 `JavaScript` `Node.js` `React` `AI/NLP` `REST APIs`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://hintro-intel.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Meeting-Intelligence-System)
+[![GitHub](https://img.shields.io/badge/GitHub-Meeting--Intelligence--System-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Meeting-Intelligence-System)
 
 </td>
 </tr>
@@ -214,7 +215,7 @@ Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SI
 `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
 [![Demo Video](https://img.shields.io/badge/Demo_Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YNPv22hxtF4)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231)
+[![GitHub](https://img.shields.io/badge/GitHub-Planetopia-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231)
 
 </td>
 
@@ -227,12 +228,24 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST + React, three inge
 `Django` `DRF` `React` `PostgreSQL` `Docker`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carbon-ingest.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Carbon-ingest)
+[![GitHub](https://img.shields.io/badge/GitHub-Carbon--ingest-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Carbon-ingest)
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 🎥 Gen-V — AI Short Video Generator
+
+Active AI video-generation project focused on **script generation, scene planning, provider-agnostic model routing, structured JSON/Zod validation, and local/remote generation backends**, including work around CogVideoX.
+
+`Next.js` `React` `Tailwind` `Gemini` `Groq` `OpenRouter` `Hugging Face` `CogVideoX`
+
+> In active development.
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🔎 Search Engine Using EXA
@@ -244,7 +257,9 @@ Lightweight AI search application built around the **Exa API** for web search an
 [![GitHub](https://img.shields.io/badge/GitHub-Search--Engine--Using--EXA-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Search_Engine_Using_EXA)
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🔁 Outreach Pipeline
@@ -253,29 +268,23 @@ Automated multi-step outreach pipeline engineered for scale — intelligent trig
 
 `Node.js` `JavaScript` `REST APIs` `Automation`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Outreach-pipeline)
+[![GitHub](https://img.shields.io/badge/GitHub-Outreach--pipeline-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Outreach-pipeline)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🛍️ Apex Shopify Analytics
 
-Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory insights, and REST API backend. Live in production.
+Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory insights, and REST API backend.
 
 `React.js` `Node.js` `PostgreSQL` `REST APIs`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Apex-Shopify-Engine)
-
-</td>
-
-<td width="50%" valign="top">
+[![GitHub](https://img.shields.io/badge/GitHub-Apex--Shopify--Engine-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Apex-Shopify-Engine)
 
 </td>
 </tr>
-
+ 
 </table>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
