@@ -34,7 +34,13 @@ class Developer:
 
         self.flagship       = "ShortForge — AI Video Generation Factory [Active]"
         self.recent_projects = ["HireHawk — Autonomous AI Job Application Copilot",
-                                "Gen-V — AI Short Video Generator"]
+                                "Sentixcare — Mood-driven personalized recommendation system"]
+        
+        self.currently      = "Building ShortForge — agentic orchestration + distributed GPU rendering"
+        self.exploring      = ["Temporal workflows", "ROCm / AMD AI compute", "Agent verification & evals"]
+
+        self.open_to        = "Entry-level AI/ML · Software Engineering · Full Stack roles (2026)"
+        self.locations      = "Chennai, Tamil Nadu · open to remote / relocatio"
         self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
         self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
 
@@ -43,10 +49,6 @@ class Developer:
         self.certifications = ["AWS AI Practitioner Challenge — Udacity (Jun 2026)",
                                "CLLMSP — LLM Security (95%)"]
 
-        self.currently      = "Building ShortForge — agentic orchestration + distributed GPU rendering"
-        self.exploring      = ["Temporal workflows", "ROCm / AMD AI compute", "Agent verification & evals"]
-        self.open_to        = "Entry-level AI/ML · Software Engineering · Full Stack roles (2026)"
-        self.locations      = "Chennai, Tamil Nadu · open to remote / relocatio"
         
 ```
 
