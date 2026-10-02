@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist;AWS+Certified+%7C+CLLMSP+95%25+%7C+Published+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;LLMs+%2B+Agentic+AI+%2B+Distributed+Systems;ShortForge+%7C+HireHawk+%7C+Gen-V;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist;AWS+Certified+%7C+CLLMSP+95%25+%7C+Published+Researcher" alt="Typing SVG" />
  
 <br/>
  
@@ -70,6 +70,15 @@ class Developer:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Agent & Compute Infrastructure**
+
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5E5E5E?style=for-the-badge)
+![Temporal](https://img.shields.io/badge/Temporal-Workflow_Orchestration-000000?style=for-the-badge)
+![ROCm](https://img.shields.io/badge/ROCm-AMD_AI_Computing-ED1C24?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-GPU_Compute-20BEFF?style=for-the-badge)
+![RunPod](https://img.shields.io/badge/RunPod-GPU_Compute-000000?style=for-the-badge)
+![Vast.ai](https://img.shields.io/badge/Vast.ai-Distributed_GPU-6E56CF?style=for-the-badge)
  
 </div>
 
@@ -165,6 +174,31 @@ AI-powered meeting analysis platform. Turns raw conversations into structured in
 </td>
 </tr>
  
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ ShortForge — ⭐ Flagship AI Project
+AI video generation factory built around **FactoryOS** and the canonical **F00–F07** closed-loop pipeline. Includes agentic orchestration, **Ascalon** cognitive decisioning, distributed GPU render fabric, provider routing, MCP tooling, leases/fencing, typed contracts, and verification-driven release controls.
+
+`TypeScript` `Next.js` `React` `Python` `FastAPI` `LLMs` `MCP` `Docker`
+
+[![GitHub](https://img.shields.io/badge/GitHub-ShortForge-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/ShortForge)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦅 HireHawk — Autonomous AI Job Application Copilot
+Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, MCP servers, company intelligence, resume tailoring, HITL approval, and application tracking**.
+
+`Python` `TypeScript` `LangGraph` `FastAPI` `MCP` `React` `Cloudflare`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Cloudflare-2EA44F?style=flat-square)](https://hirehawk-dashboard.pages.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-HireHawk-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/HireHawk)
+
+</td>
+</tr>
+ 
 <tr>
 <td width="50%" valign="top">
  
@@ -187,6 +221,30 @@ Enterprise-grade emissions ledger (Scope 1/2/3). Django REST + React, three inge
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carbon-ingest.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Carbon-ingest)
  
+</td>
+</tr>
+ 
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Gen-V — AI Short Video Generator
+Active AI video-generation project focused on **script generation, scene planning, provider-agnostic model routing, structured JSON/Zod validation, and local/remote generation backends**, including work around CogVideoX.
+
+`Next.js` `React` `Tailwind` `Gemini` `Groq` `OpenRouter` `Hugging Face` `CogVideoX`
+
+> In active development.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Search Engine Using EXA
+Lightweight AI search application built around the **Exa API** for web search and retrieval.
+
+`Python` `Exa API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Search--Engine--Using--EXA-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Search_Engine_Using_EXA)
+
 </td>
 </tr>
  
@@ -230,7 +288,6 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
 - 🥇 **SIH 2025 Finalist** — Planetopia (EcoSpark) | Won internal college round → National level
 - 🏅 **Winner** — Talent Hunt Tech Quiz, Crescent College of Engineering
 - 👥 **Senior Sub-Committee Member (IT)** — Crescent Club of Finance; led Alumni website development
-- 💻 **100+ DSA problems** solved on LeetCode and GeeksforGeeks
 - 📚 **Research Publications** — AI/ML domain (ICRIT '26)
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
@@ -271,7 +328,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
       <img src="https://img.shields.io/badge/Data_Engineering-Hadoop_%26_Spark-E25A1C?style=for-the-badge"/><br/><br/>
       <b>Data Engineering with Hadoop & Spark</b><br/>
       <sub>GeeksforGeeks</sub><br/><br/>
-      <a href="YOUR_DRIVE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/></a>
+
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/ICRIT_'26-Research_Paper-7F77DD?style=for-the-badge"/><br/><br/>
@@ -304,7 +361,7 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
  
  <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-gokul--builds.vercel.app-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://gokul-builds.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gokul.software-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.gokul.software/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul1234-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul1234)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokul7904231-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul7904231)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentixcare-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
@@ -319,6 +376,6 @@ Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory i
  
 <br/>
  
-*"Two internships. One publications. One SIH Finalist badge. Building production AI from Chennai."*
+*"Building production AI with LLMs, agents, multimodal systems, distributed compute, and verification."*
  
 </div>
