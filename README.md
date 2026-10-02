@@ -1,17 +1,39 @@
 <div align="center">
- 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Gokul+A+%F0%9F%91%8B;AI%2FML+Engineer+%2B+Full+Stack+Developer;LLMs+%2B+Agentic+AI+%2B+Distributed+Systems;ShortForge+%7C+HireHawk+%7C+Gen-V;Infosys+%7C+Zidio+%7C+SIH+2025+Finalist;AWS+Certified+%7C+CLLMSP+95%25+%7C+Published+Researcher" alt="Typing SVG" />
- 
+
 <br/>
- 
+
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Fresher_2026-6EE7B7?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Chennai%2C_Tamil_Nadu-0A66C2?style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel)](https://www.gokul.software/)
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul1234-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul1234)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gokul32499@gmail.com)
+
+<br/>
+
+**I build production-minded AI systems: agents that plan, GPU pipelines that render, and full-stack products people can actually use.**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
+
 </div>
- 
+
+## ⚡ 30-Second Recruiter Scan
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🎯 **Target roles** | AI/ML Engineer · LLM / Agentic AI Engineer · Full Stack (AI-first) Engineer |
+| 📅 **Availability** | Fresher — 2026 batch, ready to join immediately |
+| 📍 **Location** | Chennai, Tamil Nadu · open to remote / relocation |
+| 🧠 **Core strengths** | LLM orchestration (LangGraph, MCP) · Multimodal AI · FastAPI/React products · Distributed GPU compute |
+| 🏢 **Industry exposure** | Infosys (AI/ML) · Zidio Development (Full Stack) |
+| 🏆 **Proof** | SIH 2025 National Finalist · ICRIT '26 Published · AWS Certified · CLLMSP 95% |
+| 🔗 **Live demos** | [ShortForge](https://shortforge.gokul.software/) · [HireHawk](https://hirehawk-dashboard.pages.dev/) · [Sentixcare](https://sentixcare.gokul.software/) |
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 `whoami`
@@ -21,55 +43,90 @@ class Developer:
     def __init__(self):
         self.name           = "Gokul A"
         self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
-        
+
         self.internships    = [
             "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
             "Full Stack Developer Intern @ Zidio Development (Jul–Sep 2024)"
         ]
-        
+
         self.flagship       = "ShortForge — AI Video Generation Factory [Active]"
-        self.recent_projects = ["HireHawk — Autonomous AI Job Application Copilot", "Gen-V — AI Short Video Generator"]
+        self.recent_projects = ["HireHawk — Autonomous AI Job Application Copilot",
+                                "Gen-V — AI Short Video Generator"]
         self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
         self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
-        
-        self.core_stack     = ["PyTorch", "LangGraph", "LangChain", "MCP", "TypeScript", "React.js", "FastAPI", "Docker", "AWS"]
+
+        self.core_stack     = ["PyTorch", "LangGraph", "LangChain", "MCP",
+                               "TypeScript", "React.js", "FastAPI", "Docker", "AWS"]
         self.certifications = ["AWS Certified Cloud Practitioner", "CLLMSP — LLM Security (95%)"]
+
+        self.currently      = "Shipping ShortForge — agentic orchestration + distributed GPU rendering"
+        self.exploring      = ["Temporal workflows", "ROCm / AMD AI compute", "Agent verification & evals"]
+        self.open_to        = "Full-time AI/ML · Agentic AI · Full Stack roles (2026)"
 ```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
- ## 🧠 AI / ML Stack
- 
+
+## 📈 Impact at a Glance
+
 <div align="center">
 
- **Deep Learning & Computer Vision**
- 
- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Latency](https://img.shields.io/badge/Frontend_Latency-%E2%86%93_35%25-6EE7B7?style=for-the-badge&labelColor=0d1117)
+![API](https://img.shields.io/badge/API_Response-%3C_500ms-6EE7B7?style=for-the-badge&labelColor=0d1117)
+![Delivery](https://img.shields.io/badge/Delivered-2_Weeks_Early-6EE7B7?style=for-the-badge&labelColor=0d1117)
+![SIH](https://img.shields.io/badge/SIH_2025-National_Finalist-6EE7B7?style=for-the-badge&labelColor=0d1117)
+![Security](https://img.shields.io/badge/CLLMSP-95%25-6EE7B7?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 🧭 How I Build
+
+> Demos are easy. Production is hard. I design for the second one.
+
+| Principle | What it looks like in my work |
+|:--|:--|
+| 🧾 **Typed contracts** | Agents, tools and services talk through explicit schemas, not vibes |
+| 🔒 **Leases & fencing** | Distributed GPU workers can't double-run or corrupt a job |
+| ✅ **Verification-driven releases** | Outputs are checked before they ship — not after users complain |
+| 🙋 **Human-in-the-loop** | Autonomy where it's safe, approval gates where it matters (HireHawk) |
+| 🛡️ **LLM security mindset** | Certified in LLM security (CLLMSP, 95%) — prompt-injection and tool-abuse aware |
+| 🚢 **Ship, then iterate** | Live deployments for every flagship project, not just repos |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 AI / ML Stack
+
+<div align="center">
+
+**Deep Learning & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FER--2013-FF6F00?style=for-the-badge)
- 
+
 **NLP & LLM Orchestration**
- 
- ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=6EE7B7)
- ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5E5E5E?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
- 
+
 **Open-Source LLMs**
- 
+
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge)
 ![Qwen3](https://img.shields.io/badge/Qwen3-6C3483?style=for-the-badge)
- ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
- 
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
 **Serving & APIs**
- 
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Agent & Compute Infrastructure**
 
@@ -79,7 +136,7 @@ class Developer:
 ![Kaggle](https://img.shields.io/badge/Kaggle-GPU_Compute-20BEFF?style=for-the-badge)
 ![RunPod](https://img.shields.io/badge/RunPod-GPU_Compute-000000?style=for-the-badge)
 ![Vast.ai](https://img.shields.io/badge/Vast.ai-Distributed_GPU-6E56CF?style=for-the-badge)
- 
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
@@ -87,61 +144,62 @@ class Developer:
 ## 🛠️ Full Stack & Cloud
 
 <div align="center">
- 
- **Languages**
- 
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
- 
- **Frontend**
- 
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
- 
+
 **Backend**
- 
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge)
 
 **Databases**
 
- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
- 
- **DevOps & Cloud**
- 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DevOps & Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
- 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
- ## 💼 Experience
- 
+
+## 💼 Experience
+
 ### 🤖 AI/ML Intern — Infosys Limited `Aug 2025 – Oct 2025`
-- Built a CNN + NLP hybrid system for real-time mood-based music playback using OpenCV and PyTorch
-- Optimized inference pipelines for high-speed webcam detection; deployed backends via Flask and Streamlit
-- Led full-lifecycle AI development — data ingestion → model training → production deployment in Agile
+- Built a **CNN + NLP hybrid** for real-time mood-based music playback using **OpenCV + PyTorch**
+- Optimized inference pipelines for high-speed webcam detection; deployed backends via **Flask** and **Streamlit**
+- Owned the full AI lifecycle — data ingestion → model training → production deployment — in an Agile team
 
 ### 🌐 Full Stack Developer Intern — Zidio Development `Jul 2024 – Sep 2024`
-- Built a MERN-stack Job Hunt platform with RESTful APIs supporting full CRUD operations
+- Built a **MERN-stack** Job Hunt platform with RESTful APIs supporting full CRUD
 - Reduced frontend latency by **35%** and kept API response times under **500ms**
 - Delivered all milestones **2 weeks ahead of schedule** in an Agile/Scrum setup
- 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Projects
@@ -159,9 +217,7 @@ class Developer:
 <table width="100%">
 
 <!-- ROW 1 — FLAGSHIP -->
-
 <tr>
-
 <td colspan="2" valign="top">
 
 <h2>⚙️ ShortForge — AI Short-Form Video Generation Platform</h2>
@@ -208,12 +264,9 @@ typed contracts, and verification-driven release controls.
 </p>
 
 </td>
-
 </tr>
 
-
 <!-- ROW 2 — AI SYSTEMS -->
-
 <tr>
 
 <td width="50%" valign="top">
@@ -223,7 +276,7 @@ typed contracts, and verification-driven release controls.
 <b>Mood-Driven Personalized Recommendation System</b>
 
 <p>
-Multimodal emotion AI combining facial emotion recognition, FER-2013,
+Multimodal emotion AI combining facial emotion recognition (FER-2013),
 NLP-based mood input, recommendation systems, and personalized wellness
 interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
 </p>
@@ -259,7 +312,6 @@ interventions using custom <b>ERMA</b> and <b>AEISA</b> algorithms.
 </p>
 
 </td>
-
 
 <td width="50%" valign="top">
 
@@ -301,9 +353,7 @@ tailoring, HITL approval, and application tracking.
 
 </tr>
 
-
 <!-- ROW 3 — PROJECTS -->
-
 <tr>
 
 <td width="50%" valign="top">
@@ -334,16 +384,12 @@ and integrated application workflows.
 <a href="https://planetopia-ecospark.netlify.app/">
 <img src="https://img.shields.io/badge/🚀%20LIVE-Planetopia-16A34A?style=for-the-badge"/>
 </a>
-<a href="https://github.com/Gokul7904231">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-Profile-18181B?style=for-the-badge"/>
-</a>
 <a href="https://www.youtube.com/watch?v=YNPv22hxtF4">
 <img src="https://img.shields.io/badge/▶%20DEMO-YouTube-E11D48?style=for-the-badge"/>
 </a>
 </p>
 
 </td>
-
 
 <td width="50%" valign="top">
 
@@ -354,6 +400,12 @@ and integrated application workflows.
 <p>
 Django + React platform for ingesting, normalizing, reviewing, and
 auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Data_Pipelines-D97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/Audit_Trail-D97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESG-D97706?style=flat-square"/>
 </p>
 
 <code>Django</code>
@@ -375,50 +427,67 @@ auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
 
 </tr>
 
+</table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 🏗️ Architecture Spotlight — ShortForge
+
+A simplified view of the closed-loop idea behind the platform:
+
+```mermaid
+flowchart LR
+    A[🎬 Brief / Prompt] --> B[🧠 Ascalon<br/>Cognitive Decisioning]
+    B --> C[🤖 Agent Orchestration<br/>MCP Tools]
+    C --> D[🔀 Provider Routing]
+    D --> E[🖥️ Distributed GPU Rendering<br/>Leases + Fencing]
+    E --> F{✅ Verification Gates}
+    F -- pass --> G[🚀 Release]
+    F -- fail --> B
+    G -. feedback .-> B
+```
+
+<sub>Typed contracts connect every stage; failed verification loops back into decisioning instead of shipping bad output.</sub>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 📄 Research Publications
- 
+
 | Year | Title | Venue | Link |
 |------|-------|-------|------|
 | 2026 | Mood-driven multimodal recommendation systems | ICRIT '26 — Conference Paper | [![View](https://img.shields.io/badge/View-Paper-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS) |
- 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
+
 ## 🏆 Achievements
- 
+
 - 🥇 **SIH 2025 Finalist** — Planetopia (EcoSpark) | Won internal college round → National level
 - 🏅 **Winner** — Talent Hunt Tech Quiz, Crescent College of Engineering
 - 👥 **Senior Sub-Committee Member (IT)** — Crescent Club of Finance; led Alumni website development
-- 📚 **Research Publications** — AI/ML domain (ICRIT '26)
- 
+- 📚 **Research Publication** — AI/ML domain (ICRIT '26)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
+
 ## 🎓 Certifications
- 
+
 <div align="center">
- 
+
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><br/>
       <b>AWS Certified Cloud Practitioner</b><br/>
       <sub>Amazon Web Services</sub><br/><br/>
-
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/CLLMSP-LLM_Security-6EE7B7?style=for-the-badge&logo=openai&logoColor=black"/><br/><br/>
       <b>Certified LLM Security Professional</b><br/>
       <sub>Score: 95%</sub><br/><br/>
-
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Deep_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
       <b>Deep Learning for Developers</b><br/>
       <sub>Infosys Springboard</sub><br/><br/>
-
     </td>
   </tr>
   <tr>
@@ -426,60 +495,59 @@ auditing Scope 1, Scope 2, and Scope 3 emissions data from enterprise sources.
       <img src="https://img.shields.io/badge/Machine_Learning-Infosys_Springboard-0052CC?style=for-the-badge"/><br/><br/>
       <b>Machine Learning Foundations</b><br/>
       <sub>Infosys Springboard</sub><br/><br/>
-
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Data_Engineering-Hadoop_%26_Spark-E25A1C?style=for-the-badge"/><br/><br/>
       <b>Data Engineering with Hadoop & Spark</b><br/>
       <sub>GeeksforGeeks</sub><br/><br/>
-
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/ICRIT_'26-Research_Paper-7F77DD?style=for-the-badge"/><br/><br/>
       <b>Published Researcher — ICRIT '26</b><br/>
       <sub>Mood-driven multimodal AI</sub><br/><br/>
-
     </td>
   </tr>
 </table>
- 
+
 </div>
- 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
- 
+
 ## 📊 GitHub Stats & Activity
- 
+
 <div align="center">
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Gokul7904231&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&rank_icon=github&card_width=420&v=1.0.1" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul7904231&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6&v=1.0.1" height="165"/>
- 
+
 </div>
- 
+
 <div align="center">
- 
+
 [![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul7904231&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=1D9E75&hide_border=true&radius=6&custom_title=Gokul's%20Contribution%20Graph&v=1.0.1)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+
 </div>
-## 🤝 Connect
- 
- <div align="center">
- 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+**Hiring for AI/ML, agentic AI, or full-stack?** I ship fast, document well, and care about reliability.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-gokul.software-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.gokul.software/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul1234-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul1234)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokul7904231-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul7904231)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentixcare-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
 [![Email](https://img.shields.io/badge/Email-gokul32499@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokul32499@gmail.com)
- 
- </div>
- 
-<div align="center">
+
 <br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokul7904231&color=6EE7B7&style=for-the-badge&label=PROFILE+VIEWS)
- 
+
 <br/>
- 
+
 *"Building production AI with LLMs, agents, multimodal systems, distributed compute, and verification."*
- 
+
 </div>
