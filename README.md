@@ -164,6 +164,21 @@ AI video generation factory built around **FactoryOS** and the canonical **F00�
 
 <td width="50%" valign="top">
 
+### 🧠 Sentixcare - Mood-Driven Personalized Recommendation System
+
+Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
+
+`Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
+
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://sentixcare.gokul.software/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
+
+[![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🦅 HireHawk — Autonomous AI Job Application Copilot
 
 Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, MCP servers, company intelligence, resume tailoring, HITL approval, and application tracking**.
@@ -179,37 +194,8 @@ Multi-agent job application platform using a **Chrome MV3 extension, LangGraph, 
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Sentixcare
 
-Multimodal emotion recognition: CNN face detector (FER-2013) + NLP recommendation engine. Custom ERMA & AEISA algorithms. Real-time webcam inference. Research published at ICRIT '26.
-
-`Python` `PyTorch` `OpenCV` `CNN` `NLP` `Flask` `Streamlit`
-
-[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://sentixcare.gokul.software/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sentixcare-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Sentixcare)
-
-[![Publication](https://img.shields.io/badge/Publication-ICRIT_'26-7F77DD?style=flat-square)](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Meeting Intelligence System
-
-AI-powered meeting analysis platform. Turns raw conversations into structured intelligence — summaries, action items, decisions. Full-stack JS build with real-time processing.
-
-`JavaScript` `Node.js` `React` `AI/NLP` `REST APIs`
-
-[![Live](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://hintro-intel.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Meeting--Intelligence--System-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Meeting-Intelligence-System)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 Planetopia — SIH 2025 Finalist
+### 🏆 Planetopia (SIH 2025 Finalist) — Gamified Environmental Education Platform
 
 Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SIH. Real-time dashboards, reward systems, integration-tested across all features.
 
@@ -222,63 +208,6 @@ Gamified eco-education MERN platform. Full-stack MVP built in 36 hours during SI
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🌱 Carbon Ingest Platform
-
-Enterprise-grade emissions ledger (Scope 1/2/3). Django REST + React, three ingestion parsers (SAP, Utilities, Travel). Strict data immutability. Built as a take-home for Breathe ESG.
-
-`Django` `DRF` `React` `PostgreSQL` `Docker`
-
-[![Live](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carbon-ingest.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Carbon--ingest-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Carbon-ingest)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-### 🛍️ Apex Shopify Analytics
-
-Full-stack e-commerce analytics dashboard. Real-time sales tracking, inventory insights, and REST API backend.
-
-`React.js` `Node.js` `PostgreSQL` `REST APIs`
-
-[![Live](https://apex-shopify-engine-1.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Apex--Shopify--Engine-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Apex-Shopify-Engine)
-
-</td>
-</tr>
- 
-</table>
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-### 🔁 Outreach Pipeline
-
-Automated multi-step outreach pipeline engineered for scale — intelligent triggers, sequencing logic, and data-driven follow-ups.
-
-`Node.js` `JavaScript` `REST APIs` `Automation`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Outreach--pipeline-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Outreach-pipeline)
-
-</td>
-
-<td width="50%" valign="top">
-
-
-### 🔎 Search Engine Using EXA
-
-Lightweight AI search application built around the **Exa API** for web search and retrieval.
-
-`Python` `Exa API`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Search--Engine--Using--EXA-181717?style=flat-square&logo=github)](https://github.com/Gokul7904231/Search_Engine_Using_EXA)
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 
