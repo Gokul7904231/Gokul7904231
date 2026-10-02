@@ -18,23 +18,6 @@
 
 </div>
 
-## ⚡ 30-Second Recruiter Scan
-
-<div align="center">
-
-| | |
-|:--|:--|
-| 🎯 **Looking for** | Software Engineer · AI/ML Engineer (entry-level) · Full Stack Developer · Graduate Engineer Trainee |
-| 📅 **Availability** | Fresher — 2026 batch, ready to join immediately |
-| 📍 **Location** | Chennai, Tamil Nadu · open to remote / relocation |
-| 🧠 **Core strengths** | Python & TypeScript · Building AI-powered applications · Full-stack web development · APIs & databases · Fast learner who ships working demos |
-| 🏢 **Experience** | Infosys (AI/ML Intern) · Zidio Development (Full Stack Intern) |
-| 🏆 **Proof** | SIH 2025 National Finalist · ICRIT '26 Published · AWS AI Practitioner Challenge (Udacity) · CLLMSP 95% |
-| 🔗 **Live demos** | [ShortForge](https://shortforge.gokul.software/) · [HireHawk](https://hirehawk-dashboard.pages.dev/) · [Sentixcare](https://sentixcare.gokul.software/) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 👨‍💻 `whoami`
 
@@ -42,7 +25,7 @@
 class Developer:
     def __init__(self):
         self.name           = "Gokul A"
-        self.education      = "B.Tech Computer Science — Crescent College [2026 Batch]"
+        self.education      = "B.Tech Computer Science — Crescent College [Fresher — 2026 batch, ready to join immediately ]"
 
         self.internships    = [
             "AI/ML Developer Intern @ Infosys Limited (Aug–Oct 2025)",
@@ -63,6 +46,8 @@ class Developer:
         self.currently      = "Building ShortForge — agentic orchestration + distributed GPU rendering"
         self.exploring      = ["Temporal workflows", "ROCm / AMD AI compute", "Agent verification & evals"]
         self.open_to        = "Entry-level AI/ML · Software Engineering · Full Stack roles (2026)"
+        self.locations      = "Chennai, Tamil Nadu · open to remote / relocatio"
+        
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
