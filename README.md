@@ -40,7 +40,7 @@ class Developer:
         self.exploring      = ["Temporal workflows", "ROCm / AMD AI compute", "Agent verification & evals"]
 
         self.open_to        = "Entry-level AI/ML · Software Engineering · Full Stack roles (2026)"
-        self.locations      = "Chennai, Tamil Nadu · open to remote / relocatio"
+        self.locations      = "Chennai, Tamil Nadu · open to remote / relocation"
         self.publications   = ["Mood-driven multimodal recommendation systems (ICRIT '26)"]
         self.achievements   = ["Smart India Hackathon (SIH) 2025 Finalist & Internal Winner"]
 
