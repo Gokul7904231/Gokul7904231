@@ -143,7 +143,7 @@ class Developer:
 
 ### ⚡ Things I've Built
 
-<sub>Every project below has a live demo and source code · Start with the flagship, then browse the rest</sub>
+<sub>Selected work across AI systems, agentic applications, multimodal AI, distributed compute, and full-stack engineering</sub>
 
 </div>
 
@@ -158,6 +158,10 @@ class Developer:
 | 🧠 **Sentixcare** | Mood-driven recommendation system | Multimodal AI · Research | 📄 Published | [Live](https://sentixcare.gokul.software/) · [Code](https://github.com/Gokul7904231/Sentixcare) · [Paper](https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS) |
 | 🏆 **Planetopia** | Gamified environmental education | MERN · SIH 2025 Finalist | 🏅 Finalist | [Live](https://planetopia-ecospark.netlify.app/) · [Demo](https://www.youtube.com/watch?v=YNPv22hxtF4) |
 | 🌱 **Carbon Ingest** | Carbon emissions data ingestion & audit | Django · React · Data pipelines | 🟢 Live | [Live](https://carbon-ingest.onrender.com/) · [Code](https://github.com/Gokul7904231/Carbon-ingest) |
+| 🎥 **Gen-V** | AI short-video generation | Generative AI · Video · Provider abstraction | 🟡 Active | [Details](#-gen-v) |
+| 🔎 **Search Engine Using EXA** | AI web search & retrieval | Exa · Search · APIs | 🧪 Project | [Code](https://github.com/Gokul7904231/Search_Engine_Using_EXA) |
+| 🔁 **Outreach Pipeline** | AI-powered B2B outreach automation | Gemini · Email · Automation | 🧪 Project | [Code](https://github.com/Gokul7904231/Outreach-pipeline) |
+| 🛍️ **Apex Shopify Analytics** | Shopify analytics & recommendations | SaaS · Analytics · Recommendations | 🧪 Project | [Code](https://github.com/Gokul7904231/Apex-Shopify-Engine) |
 
 <br/>
 
@@ -315,6 +319,105 @@ Ingests, normalizes, reviews and audits Scope 1, 2 and 3 emissions data coming f
 <p>
 <a href="https://carbon-ingest.onrender.com/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
 <a href="https://github.com/Gokul7904231/Carbon-ingest"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 id="-gen-v">🎥 Gen-V</h3>
+<p><i>AI short-video generation system</i></p>
+
+<b>What it does</b><br/>
+Script generation, scene planning, provider-agnostic model routing, structured JSON/Zod validation, and local/remote generation backends including CogVideoX.
+
+<br/><br/>
+
+<b>Signals</b><br/>
+Generative AI • Video AI • Provider abstraction • Structured outputs
+
+<br/><br/>
+
+<code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>Gemini</code> <code>Groq</code> <code>OpenRouter</code> <code>Hugging Face</code> <code>CogVideoX</code>
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-Active%20Development-F59E0B?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔎 Search Engine Using EXA</h3>
+<p><i>AI-powered web search &amp; retrieval</i></p>
+
+<b>What it does</b><br/>
+Lightweight search application built around the Exa API for web search and retrieval.
+
+<br/><br/>
+
+<b>Signals</b><br/>
+Search • Retrieval • API Integration
+
+<br/><br/>
+
+<code>Python</code> <code>Exa API</code>
+
+<p>
+<a href="https://github.com/Gokul7904231/Search_Engine_Using_EXA"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🔁 Outreach Pipeline</h3>
+<p><i>AI-powered B2B cold outreach automation</i></p>
+
+<b>What it does</b><br/>
+Prospect sourcing, AI-generated personalization, campaign flow, and automated email delivery.
+
+<br/><br/>
+
+<b>Signals</b><br/>
+AI Automation • APIs • Email Workflows
+
+<br/><br/>
+
+<code>Node.js</code> <code>JavaScript</code> <code>React</code> <code>Gemini</code> <code>Brevo</code> <code>Automation</code>
+
+<p>
+<a href="https://github.com/Gokul7904231/Outreach-pipeline"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛍️ Apex Shopify Analytics</h3>
+<p><i>Shopify analytics &amp; recommendation SaaS</i></p>
+
+<b>What it does</b><br/>
+Full-stack Shopify analytics platform with authentication, subscriptions, real-time analytics, search, caching, and product recommendations.
+
+<br/><br/>
+
+<b>Signals</b><br/>
+SaaS • Analytics • Recommendations
+
+<br/><br/>
+
+<code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code>
+
+<p>
+<a href="https://github.com/Gokul7904231/Apex-Shopify-Engine"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
 </p>
 
 </td>
