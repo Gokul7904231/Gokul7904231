@@ -505,7 +505,7 @@ flowchart LR
 [![Portfolio](https://img.shields.io/badge/Portfolio-gokul.software-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://www.gokul.software/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul1234-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul1234)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokul7904231-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul7904231)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentixcare-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/gokul-music/Sentixcare)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Sentixcare-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/gokul-labs)
 [![Email](https://img.shields.io/badge/Email-gokul32499@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokul32499@gmail.com)
 
 <br/>
