@@ -259,7 +259,8 @@ A MERN platform that teaches environmental awareness through gamification, dashb
 <p>
 <a href="https://planetopia-ecospark.netlify.app/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
 <a href="https://www.youtube.com/watch?v=YNPv22hxtF4"><img src="https://img.shields.io/badge/▶%20DEMO-E11D48?style=flat-square"/></a>
-<a href="https://drive.google.com/file/d/1kTBj-E50B982Vtf-XOr1x3roCtOHsgub/view?usp=sharing"><img src="https://img.shields.io/badge/▶%20Doc-E11D48?style=flat-square" alt="Doc"/></a>
+<a href="https://drive.google.com/file/d/1kTBj-E50B982Vtf-XOr1x3roCtOHsgub/view?usp=sharing"><img src="https://img.shields.io/badge/▶%20Doc-8B5CF6?style=flat-square" alt="Doc"/></a>
+
 
 </p>
 
