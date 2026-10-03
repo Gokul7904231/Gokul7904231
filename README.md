@@ -207,7 +207,7 @@ Reads emotion from facial expressions (FER-2013) and text mood input, then recom
 <p>
 <a href="https://sentixcare.gokul.software/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
 <a href="https://github.com/Gokul7904231/Sentixcare"><img src="https://img.shields.io/badge/⌘%20CODE-18181B?style=flat-square"/></a>
-<a href="https://www.academia.edu/168639338/Mood_Driven_Personalized_Recommendation_System_using_ERS"><img src="https://img.shields.io/badge/📄%20PAPER-7C3AED?style=flat-square"/></a>
+<a href="https://zenodo.org/records/21064337"><img src="https://img.shields.io/badge/📄%20PAPER-7C3AED?style=flat-square"/></a>
 </p>
 
 </td>
@@ -259,6 +259,8 @@ A MERN platform that teaches environmental awareness through gamification, dashb
 <p>
 <a href="https://planetopia-ecospark.netlify.app/"><img src="https://img.shields.io/badge/🚀%20LIVE-16A34A?style=flat-square"/></a>
 <a href="https://www.youtube.com/watch?v=YNPv22hxtF4"><img src="https://img.shields.io/badge/▶%20DEMO-E11D48?style=flat-square"/></a>
+<a href="https://drive.google.com/file/d/1kTBj-E50B982Vtf-XOr1x3roCtOHsgub/view?usp=sharing"><img src="https://img.shields.io/badge/▶%20Doc-E11D48?style=flat-square" alt="Doc"/></a>
+
 </p>
 
 </td>
